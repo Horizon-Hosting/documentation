@@ -12,7 +12,7 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'https://archive.horizonnetworks.uk/Branding/Logo/Coloured_Icon.svg',
 
   organizationName: 'Horizon-Hosting',
   projectName: 'Documentation',
@@ -62,8 +62,8 @@ const config = {
       navbar: {
         title: 'HRZN Hosting Documentation',
         logo: {
-          alt: 'HRZN Hosting Logo',
-          src: 'img/logo.svg',
+          alt: 'HRZN Logo',
+          src: 'https://archive.horizonnetworks.uk/Branding/Logo/Coloured_Icon.svg',
         },
         items: [
           {
