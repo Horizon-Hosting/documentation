@@ -37,7 +37,6 @@ jobs:
           cspell:npm/npm.txt
           cspell:node/node.txt
           cspell:lua/lua.txt
-          cspell:en_GB/en_GB.txt
 
   comment:
     name: Report
