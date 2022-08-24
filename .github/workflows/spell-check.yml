@@ -1,12 +1,10 @@
 name: Check Spelling
 
 on:
+  pull_request:
   push:
-    branches: ["**"]
+    branches: pre-release
     tags-ignore: ["**"]
-  pull_request_target:
-  issue_comment:
-    types: [created]
 
 jobs:
   spelling:
@@ -33,6 +31,12 @@ jobs:
         spell_check_this: check-spelling/spell-check-this@prerelease
         post_comment: 0
         experimental_apply_changes_via_bot: 1
+        extra_dictionaries:
+          cspell:aws/aws.txt
+          cspell:filetypes/filetypes.txt
+          cspell:npm/npm.txt
+          cspell:node/node.txt
+          cspell:lua/lua.txt
 
   comment:
     name: Report
