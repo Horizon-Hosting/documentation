@@ -1,12 +1,10 @@
 name: Check Spelling
 
 on:
+  pull_request:
   push:
-    branches: ["**"]
+    branches: pre-release
     tags-ignore: ["**"]
-  pull_request_target:
-  issue_comment:
-    types: [created]
 
 jobs:
   spelling:
