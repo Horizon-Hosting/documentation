@@ -1,0 +1,12 @@
+html[data-theme='dark'] {
+    --ifm-color-primary: #ff4f5e;
+    --ifm-color-primary-dark: #ff2e3f;
+    --ifm-color-primary-darker: #ff1d30;
+    --ifm-color-primary-darkest: #ea0014;
+    --ifm-color-primary-light: #ff707d;
+    --ifm-color-primary-lighter: #ff818c;
+    --ifm-color-primary-lightest: #ffb3ba;
+    --ifm-background-color: #0F172A;
+    --ifm-navbar-background-color: #1E293B;
+    --ifm-footer-background-color: #1E293B;
+}
