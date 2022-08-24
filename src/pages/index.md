@@ -4,7 +4,7 @@ hide_table_of_contents: true
 
 # Welcome to HRZN Hosting's Docs
 
-## [Knowledegebase](/knowledgebase/intro)
+## [Knowledegebase](/knowledgebase/getting_support)
 
 The knowledgebase is a place where you can find answers to common questions, and even tutorials on how to use/setup our services! This is so that we can help you get the most out of your servers, and make sure you don't get left behind. It also helps us free up some of our resources to help other people, who have more advanced support requests.
 
