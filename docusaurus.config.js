@@ -69,7 +69,7 @@ const config = {
           {
             type: 'doc',
             docsPluginId: 'knowledgebase',
-            docId: 'intro',
+            docId: 'getting_support',
             position: 'left',
             label: 'Knowledgebase',
           },
