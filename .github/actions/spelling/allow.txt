@@ -1,8 +1,0 @@
-github
-https
-ssh
-ubuntu
-mysql
-beammp
-gmodstore
-gmod
