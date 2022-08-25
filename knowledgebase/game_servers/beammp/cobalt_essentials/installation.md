@@ -13,7 +13,7 @@ It is a modular permissions and server management system, meaning you can get ad
 
 Cobalt Essentials is written by [Preston](https://github.com/prestonelam2003) & contributors. It is available on [GitHub](https://github.com/prestonelam2003/CobaltEssentials). They have also have a [Discord server](https://discord.gg/UV74wNXKdz).
 
-## Requirements
+### Requirements
 A BeamMP Server running version 3.x.x
 
 ### Installation
