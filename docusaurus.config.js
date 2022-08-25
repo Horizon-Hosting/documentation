@@ -165,26 +165,26 @@ const config = {
                 },
             ],
             copyright: `Copyright © ${new Date().getFullYear()} Horizon Hosting.`,
-            metadata: [{
-                    name: 'og:title',
-                    content: 'HRZN Hosting Docs & Knowledgebase',
-                },
-                {
-                    name: 'og-site_name',
-                    content: 'HRZN Hosting Docs',
-                },
-                {
-                    name: 'og:description',
-                    content: 'High performance. Low prices. No compromises.',
-                }, {
-                    name: 'og:image',
-                    content: 'https://archive.horizonnetworks.uk/Branding/Logo/Coloured_Icon.svg',
-                }, {
-                    name: 'theme-color',
-                    content: '#ff4f5e',
-                }
-            ],
         },
+        metadata: [{
+            name: 'og:title',
+            content: 'HRZN Hosting Docs & Knowledgebase',
+        },
+        {
+            name: 'og-site_name',
+            content: 'HRZN Hosting Docs',
+        },
+        {
+            name: 'og:description',
+            content: 'High performance. Low prices. No compromises.',
+        }, {
+            name: 'og:image',
+            content: 'https://archive.horizonnetworks.uk/Branding/Logo/Coloured_Icon.svg',
+        }, {
+            name: 'theme-color',
+            content: '#ff4f5e',
+        }
+    ],
         colorMode: {
             defaultMode: 'dark',
             disableSwitch: true,
