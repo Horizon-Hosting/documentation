@@ -8,7 +8,7 @@ description: What are Cobalt Essentials and Cobalt Essentials Interface and and 
 
 ### What is Cobalt Essentials?
 
-Cobalt essentials is a chat based administration plugin, which adds "essentials" to your server.
+Cobalt Essentials is a chat-based administration plugin, which adds "essentials" to your server.
 It is a modular permissions and server management system, meaning you can get addons to extend it's functionality!
 
 It has been written by [Preston](https://github.com/prestonelam2003) & the open source community, and is available for download on [GitHub](https://github.com/prestonelam2003/CobaltEssentials).
