@@ -85,6 +85,30 @@ const config = {
             'left'
           },
           {
+            type: 'dropdown',
+            label: 'Legal',
+            position: 'left',
+            items: [
+              {
+                label: 'Terms and conditions',
+                to: 'legal/terms-and-conditions',
+              },
+              {
+                label: 'Privacy Policy',
+                to: 'legal/privacy-policy',
+              },
+              {
+                label: 'Acceptable Use Policy',
+                to: 'legal/acceptable-use-policy',
+              },
+              {
+                label: 'Refund Policy',
+                to: 'legal/refund-policy',
+              },
+            ],
+
+          },
+          {
             href: 'https://hrzn.link/billing',
             label: 'Billing Panel',
             position: 'left',
@@ -128,8 +152,29 @@ const config = {
               },
             ],
           },
+          {
+            title: 'Legal',
+            items: [
+              {
+                label: 'Terms and conditions',
+                to: 'legal/terms-and-conditions',
+              },
+              {
+                label: 'Privacy Policy',
+                to: 'legal/privacy-policy',
+              },
+              {
+                label: 'Acceptable Use Policy',
+                to: 'legal/acceptable-use-policy',
+              },
+              {
+                label: 'Refund Policy',
+                to: 'legal/refund-policy',
+              },
+            ],
+          },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} HRZN Hosting.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Horizon Hosting.`,
       },
       colorMode: {
         defaultMode: 'dark',
