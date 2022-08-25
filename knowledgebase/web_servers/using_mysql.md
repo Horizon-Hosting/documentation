@@ -4,7 +4,7 @@ title: MySQL Basics
 description: Answering all the FAQs surrounding MySQL.
 ---
 
-## What is MYSQL?
+## What is MySQL?
 
 MYSQL is a commonly used database storage solution, which can be used to store your game servers data, or even for Discord bots and websites!
 
