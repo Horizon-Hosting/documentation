@@ -15,9 +15,6 @@ DarkRP is a base framework to create a crime based RP experience. There are lots
 
 ## Troubleshooting
 Please ensure you have also changed "sandbox" to "darkrp" in your game server’s gamemode variable in the startup tab.
-
 Be careful not to modify or delete any of the core game files, as this may mean you will need to reinstall your entire Garry's Mod server!
-
 We suggest using an additional addon called “DarkRP Modification” which allows for easy modification of the game mode. If any errors occur, check the console for any error messages to then search the error online or create a ticket.
-
 And remember, if you are looking for incredibly fast and reliable GMod server hosting, try out Horizon Networks! Start your Garry's Mod server today.
