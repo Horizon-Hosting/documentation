@@ -4,7 +4,7 @@ title: MySQL Basics
 description: Answering all the FAQs surrounding MySQL.
 ---
 
-## What is MYSQL?
+## What is MySQL?
 
 MYSQL is a commonly used database storage solution, which can be used to store your game servers data, or even for Discord bots and websites!
 
@@ -21,9 +21,11 @@ The host would be the Shared IP
 
 The port will always be `3306`
 
-#### ✨ Pro Tip
+:::tip Pro Tip
 
 If you are installing something on your web server itself, you can just put `localhost` as the host!
+
+:::
 
 ## Making a database and user
 
