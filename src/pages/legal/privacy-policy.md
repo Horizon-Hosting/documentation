@@ -7,7 +7,7 @@ Effective Date: 06th, December 2021
 
 ## Overview
 
-This Privacy Policy describes the policies of Horizon Hosting, Old Airfield Farm,
+This Privacy Policy describes the policies of Horizon Hosting Limited, Old Airfield Farm,
 Gloucester, Gloucestershire GL2 7NG, United Kingdom of Great Britain and Northern
 Ireland (the), email: legal@horizonnetworks.uk, phone: 07421353203 on the collection,
 use and disclosure of your information that we collect when you use our website
@@ -141,6 +141,6 @@ privacy policies or practices of any third party sites or services.
 ## Grievance / Data Protection Officer
 
 If you have any queries or concerns about the processing of your information that is
-available with us, you may email our Grievance Officer at Horizon Hosting, Old Airfield
+available with us, you may email our Grievance Officer at Horizon Hosting Limited, Old Airfield
 Farm, Gloucester, email: legal@horizonnetworks.uk. We will address your concerns in
 accordance with applicable law.

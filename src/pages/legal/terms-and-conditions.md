@@ -8,7 +8,7 @@ Effective Date: 06th, December 2021
 ## Agreement to Terms
 
 These Terms and Conditions constitute a legally binding agreement made between you,
-whether personally or on behalf of an entity (“you”) and Horizon Hosting (“we,” “us” or
+whether personally or on behalf of an entity (“you”) and Horizon Hosting Limited (“we,” “us” or
 “our”), concerning your access to and use of the horizonnetworks.uk,
 billing.horizonnetworks.uk and panel.horizonnetworks.uk website as well as any other
 media form, media channel, mobile website or mobile application related, linked, or
@@ -46,7 +46,7 @@ and agree to these Terms and Conditions prior to you using the Site
 
 Illegal Activity: You may access and use Horizon Network Services for lawful
 purposes only. You are responsible for you or your Users access, store or distribute
-via Horizon Network Services. Horizon Hosting prohibits use of Services for the
+via Horizon Network Services. Horizon Hosting Limited prohibits use of Services for the
 distribution, or storage of any data or other material in violation of any applicable law
 or regulation. This prohibition includes but is not limited to the use, storage or
 transmission of data that is protected by copyright, trademark, trade secret, patent or
@@ -66,10 +66,10 @@ otherwise objectionable.
 
 ## Complaints
 
-Horizon Hosting reserves the right to suspend access to Services. If Horizon
+Horizon Hosting Limited reserves the right to suspend access to Services. If Horizon
 Networks receives complaints from Internet users, through internet organisations or
-through other parties, Horizon Hosting is not required to determine the validity of
-the complaints received before acting under this AUP. Horizon Hosting has no
+through other parties, Horizon Hosting Limited is not required to determine the validity of
+the complaints received before acting under this AUP. Horizon Hosting Limited has no
 obligation to forward the complaint to the Customer or User, or to identify the
 complaining parties.
 
@@ -79,17 +79,17 @@ complaining parties.
 
 If Customers or Users engage in conduct or a pattern of conduct, including without
 limitation to repeated violations by a User whereby correction of individual violations
-does not, in Horizon Hosting’ sole discretion, correct a pattern of the same or
+does not, in Horizon Hosting Limited’ sole discretion, correct a pattern of the same or
 similar violations, whilst using the Services that violates the AUP, or is otherwise
-illegal or improper, Horizon Hosting reserves the right to suspend and/or terminate
-the Services or the User’s access to the Services. Horizon Hosting will attempt to
+illegal or improper, Horizon Hosting Limited reserves the right to suspend and/or terminate
+the Services or the User’s access to the Services. Horizon Hosting Limited will attempt to
 notify the Customer or User of any activity in violation of the UAP and request that
 the User ceases in such activity, however in cases where the operation Horizon
 Networks is threatened or illegal activities, suspected fraud in connection with the
-use of Services, harassment or copyright infringement, Horizon Hosting reserves
+use of Services, harassment or copyright infringement, Horizon Hosting Limited reserves
 the right to suspend or terminate the Services or the User’s access to the Services
 without notification.
-Horizon Hosting does not make any promise, nor does Horizon Hosting have any
+Horizon Hosting Limited does not make any promise, nor does Horizon Hosting Limited have any
 obligation, to monitor or police activity occurring using the Services and will have no
 liability to any party, including a Customer and User, for any violation of the AUP.
 
@@ -97,10 +97,10 @@ liability to any party, including a Customer and User, for any violation of the 
 
 ## Investigation and enforcement
 
-Horizon Hosting has the right, but is not obligated, to enforce this AUP through
-active investigation, litigation and prosecution. Horizon Hosting shall not be
+Horizon Hosting Limited has the right, but is not obligated, to enforce this AUP through
+active investigation, litigation and prosecution. Horizon Hosting Limited shall not be
 obligated to monitor or exercise any editorial control over any material stored, copied
-or distributed using the Services, but reserved the right to do so. Horizon Hosting
+or distributed using the Services, but reserved the right to do so. Horizon Hosting Limited
 reserves the right to take appropriate action against the Customer or a user for
 violations of the AUP.
 
@@ -108,18 +108,18 @@ violations of the AUP.
 
 ## Cooperation with law enforcement
 
-Horizon Hosting may also access and disclose any information (including
+Horizon Hosting Limited may also access and disclose any information (including
 transactional information) related to a Customer’s or User’s access and use of
-Horizon Hosting Services for any lawful reason, including but not limited to,
-complying with law, protecting Horizon Hosting rights or property, protection Users
+Horizon Hosting Limited Services for any lawful reason, including but not limited to,
+complying with law, protecting Horizon Hosting Limited rights or property, protection Users
 from fraudulent, abusive or unlawful use of such services.
 
 ---
 
 ## Filters
 
-Horizon Hosting reserves the right to install and use any software to detect and
+Horizon Hosting Limited reserves the right to install and use any software to detect and
 report violations of this AUP, including software designed to filter or terminate access
 to the Services. By accepting and using the Services and allowing Users to use the
-Services, User consents to allowing Horizon Hosting to collect information to help
+Services, User consents to allowing Horizon Hosting Limited to collect information to help
 enforce the AUP.
