@@ -12,6 +12,7 @@ const config = {
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'https://archive.horizonnetworks.uk/Branding/Logo/Coloured_Icon.svg',
+    staticDirectories: ['static'],
 
     organizationName: 'Horizon-Hosting',
     projectName: 'Documentation',
