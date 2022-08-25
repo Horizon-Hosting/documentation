@@ -21,7 +21,7 @@ A full HRZN Hosting branding page is currently in the works.
 :::
 
 
-### Software
+## Software
 
 ### Pat Panel
 
