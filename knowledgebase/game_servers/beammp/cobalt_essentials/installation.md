@@ -11,10 +11,12 @@ description: What are Cobalt Essentials and Cobalt Essentials Interface and and 
 Cobalt essentials is a chat based administration plugin, which adds "essentials" to your server.
 It is a modular permissions and server management system, meaning you can get addons to extend it's functionality!
 
-Cobalt Essentials is written by [Preston](https://github.com/prestonelam2003) & contributors. It is available on [GitHub](https://github.com/prestonelam2003/CobaltEssentials). They have also have a [Discord server](https://discord.gg/UV74wNXKdz).
+It has been written by [Preston](https://github.com/prestonelam2003) & the open source community, and is available for download on [GitHub](https://github.com/prestonelam2003/CobaltEssentials).
+They also have a [Discord server](https://discord.gg/UV74wNXKdz) for support and other queries.
 
 ### Requirements
-A BeamMP Server running version 3.x.x
+ 
+ - A BeamMP Server running version `3.x.x`
 
 ### Installation
 
@@ -36,11 +38,12 @@ A BeamMP Server running version 3.x.x
 ### What is CEI?
 
 CEI is an in game interface for CE. It allows server administration staff to use a simple interface, rather than the list of chat commands.
-
-CEI is written by [Stanley Dudek](https://github.com/StanleyDudek), and is available on [GitHub](https://github.com/StanleyDudek/CobaltEssentialsInterface).
+It has been written by [Stanley Dudek](https://github.com/StanleyDudek), and is available for download on [GitHub](https://github.com/StanleyDudek/CobaltEssentialsInterface).
 
 ### Requirements
-A BeamMP Server running version 3.x.x **with Cobalt Essentials installed**
+
+ - A BeamMP Server running version `3.x.x`
+ - Cobalt Essentials already installed
 
 ### Installation
 
