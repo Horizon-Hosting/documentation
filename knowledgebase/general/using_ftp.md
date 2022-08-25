@@ -4,7 +4,7 @@ title: File Transfer Basics
 description: Answering all the FAQs surrounding FTP.
 ---
 
-## What is MYSQL?
+## What is FTP?
 
 FTP is a commonly used protocol that allows you to move files and folders from your PC directly to your server!
 

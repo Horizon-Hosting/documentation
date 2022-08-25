@@ -17,7 +17,7 @@ This guide details how to setup your new Horizon Hosting BeamMP Gameserver so th
 
 1 key per server is required for your server to show on the serverlist. If you require more server keys, this can be done by donating on the [BeamMP Patreon](https://patreon.com/BeamMP)
 
-## Configuration
+## Startup Configuration
 Configuration options for your server will show in the **"Startup" tab** on the [HRZN Hosting Panel](https://hrzn.link/panel). The following fields will be present:
 
 |Name | Description | Example |
