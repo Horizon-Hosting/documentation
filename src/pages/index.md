@@ -2,7 +2,7 @@
 hide_table_of_contents: true
 ---
 
-# HRZN Hosting Docs & Knowledgebase
+# HRZN Hosting Knowledgebase & Docs
 
 ## [Knowledegebase](/knowledgebase/getting_support)
 

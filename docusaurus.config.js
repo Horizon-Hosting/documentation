@@ -57,7 +57,7 @@ const config = {
 
     themeConfig: ({
         navbar: {
-            title: 'HRZN Hosting Documentation',
+            title: 'HRZN Hosting Docs',
             logo: {
                 alt: 'HRZN Logo',
                 src: 'https://archive.horizonnetworks.uk/Branding/Logo/Coloured_Icon.svg',
@@ -169,7 +169,7 @@ const config = {
         },
         metadata: [{
             name: 'og:title',
-            content: 'HRZN Hosting Docs & Knowledgebase',
+            content: 'HRZN Hosting Knowledgebase & Docs',
         },
         {
             name: 'og-site_name',
