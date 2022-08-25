@@ -21,9 +21,11 @@ The host would be the Shared IP
 
 The port will always be `3306`
 
-#### ✨ Pro Tip
+:::tip Pro Tip
 
 If you are installing something on your web server itself, you can just put `localhost` as the host!
+
+:::
 
 ## Making a database and user
 
