@@ -44,9 +44,9 @@ and agree to these Terms and Conditions prior to you using the Site
 
 ## Prohibited Uses
 
-Illegal Activity: You may access and use Horizon Network Services for lawful
+Illegal Activity: You may access and use Horizon Hosting Limited Services for lawful
 purposes only. You are responsible for you or your Users access, store or distribute
-via Horizon Network Services. Horizon Hosting Limited prohibits use of Services for the
+via Horizon Hosting Limited Services. Horizon Hosting Limited prohibits use of Services for the
 distribution, or storage of any data or other material in violation of any applicable law
 or regulation. This prohibition includes but is not limited to the use, storage or
 transmission of data that is protected by copyright, trademark, trade secret, patent or
@@ -67,7 +67,7 @@ otherwise objectionable.
 ## Complaints
 
 Horizon Hosting Limited reserves the right to suspend access to Services. If Horizon
-Networks receives complaints from Internet users, through internet organisations or
+Hosting Limited receives complaints from Internet users, through internet organisations or
 through other parties, Horizon Hosting Limited is not required to determine the validity of
 the complaints received before acting under this AUP. Horizon Hosting Limited has no
 obligation to forward the complaint to the Customer or User, or to identify the
@@ -85,7 +85,7 @@ illegal or improper, Horizon Hosting Limited reserves the right to suspend and/o
 the Services or the User’s access to the Services. Horizon Hosting Limited will attempt to
 notify the Customer or User of any activity in violation of the UAP and request that
 the User ceases in such activity, however in cases where the operation Horizon
-Networks is threatened or illegal activities, suspected fraud in connection with the
+Hosting Limited is threatened or illegal activities, suspected fraud in connection with the
 use of Services, harassment or copyright infringement, Horizon Hosting Limited reserves
 the right to suspend or terminate the Services or the User’s access to the Services
 without notification.
