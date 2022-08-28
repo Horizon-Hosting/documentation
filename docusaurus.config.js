@@ -12,6 +12,7 @@ const config = {
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
     favicon: 'https://archive.horizonnetworks.uk/Branding/Logo/Coloured_Icon.svg',
+    staticDirectories: ['static'],
 
     organizationName: 'Horizon-Hosting',
     projectName: 'Documentation',
@@ -56,7 +57,7 @@ const config = {
 
     themeConfig: ({
         navbar: {
-            title: 'HRZN Hosting Documentation',
+            title: 'HRZN Hosting Docs',
             logo: {
                 alt: 'HRZN Logo',
                 src: 'https://archive.horizonnetworks.uk/Branding/Logo/Coloured_Icon.svg',
@@ -168,7 +169,7 @@ const config = {
         },
         metadata: [{
             name: 'og:title',
-            content: 'HRZN Hosting Docs & Knowledgebase',
+            content: 'HRZN Hosting Knowledgebase & Docs',
         },
         {
             name: 'og-site_name',
@@ -179,7 +180,7 @@ const config = {
             content: 'High performance. Low prices. No compromises.',
         }, {
             name: 'og:image',
-            content: 'https://archive.horizonnetworks.uk/Branding/Logo/Coloured_Icon.svg',
+            content: 'https://archive.horizonnetworks.uk/Branding/Logo/Coloured_Icon.png',
         }, {
             name: 'theme-color',
             content: '#ff4f5e',
