@@ -180,7 +180,7 @@ const config = {
             content: 'High performance. Low prices. No compromises.',
         }, {
             name: 'og:image',
-            content: 'https://archive.horizonnetworks.uk/Branding/Logo/Coloured_Icon.svg',
+            content: 'https://archive.horizonnetworks.uk/Branding/Logo/Coloured_Icon.png',
         }, {
             name: 'theme-color',
             content: '#ff4f5e',
