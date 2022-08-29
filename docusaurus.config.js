@@ -22,6 +22,12 @@ const config = {
         locales: ['en'],
     },
 
+    scripts: [{
+        src: 'https://analytics.horizonnetworks.uk/js/plausible.js',
+        defer: true,
+        'data-domain': 'docs.horizonnetworks.uk'
+    }],
+
     presets: [
         [
             'classic',
@@ -190,7 +196,7 @@ const config = {
         }, {
             name: 'theme-color',
             content: '#ff4f5e',
-        }
+        },
     ],
         colorMode: {
             defaultMode: 'dark',
