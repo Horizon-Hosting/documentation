@@ -11,7 +11,7 @@ const config = {
     baseUrl: '/',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
-    favicon: 'https://archive.horizonnetworks.uk/Branding/Logo/Coloured_Icon.svg',
+    favicon: 'https://archive.horizonnetworks.uk/Branding/Logo/Coloured_Icon.png',
     staticDirectories: ['static'],
 
     organizationName: 'Horizon-Hosting',
@@ -184,15 +184,6 @@ const config = {
         {
             name: 'og:description',
             content: 'High performance. Low prices. No compromises.',
-        }, {
-            name: 'og:image',
-            content: 'https://archive.horizonnetworks.uk/Branding/Logo/Coloured_Icon.png',
-        },  {
-            name: 'og:image:height',
-            content: '250'
-        }, {
-            name: 'og:image:width',
-            content: '250'
         }, {
             name: 'theme-color',
             content: '#ff4f5e',
