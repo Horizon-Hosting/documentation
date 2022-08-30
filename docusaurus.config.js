@@ -22,11 +22,16 @@ const config = {
         locales: ['en'],
     },
 
-    scripts: [{
+    scripts: [
+        {
         src: 'https://analytics.horizonnetworks.uk/js/plausible.js',
         defer: true,
         'data-domain': 'docs.horizonnetworks.uk'
-    }],
+        },
+        {
+            src: 'https://horizonnetworks.instatus.com/widget/script.js'
+        }
+    ],
 
     presets: [
         [
