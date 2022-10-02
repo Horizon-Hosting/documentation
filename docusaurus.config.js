@@ -151,8 +151,20 @@ const config = {
                         },
                         {
                             label: 'GitHub',
-                            href: 'https://github.com/Horizon-Hosting',
+                            href: 'https://github.com/Horizon-Hosting'
                         },
+                        {
+                            label: 'Twitter',
+                            href: 'https://twitter.com/HRZNHosting'
+                        },
+                        {
+                            label: 'Instagram',
+                            href: 'https://www.instagram.com/hrznhosting'
+                        },
+                        {
+                            label: 'Facebook',
+                            href: 'https://www.facebook.com/HRZNHosting/'
+                        }
                     ],
                 },
                 {
