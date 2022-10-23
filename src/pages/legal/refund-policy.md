@@ -7,7 +7,7 @@ Effective Date: 21st, August 2022
 
 ## Overview
 
-This Refund Policy describes the terms for reimbursements and refunding products sold by Horizon Hosting Limited, Old Airfield Farm, Gloucester, Gloucestershire GL2 7NG, United Kingdom of Great Britain and Northern Ireland, email: legal@horizonnetworks.uk, phone: 07421353203.
+This Refund Policy describes the terms for providing reimbursements on products and services distributed by Horizon Hosting Limited (Company Number: 13693820), Old Airfield Farm, Gloucester, Gloucestershire GL2 7NG, United Kingdom of Great Britain and Northern Ireland, email: legal@horizonnetworks.uk, phone: 07421353203.
 
 ---
 
