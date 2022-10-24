@@ -16,7 +16,7 @@ This guide details how to update your Horizon Hosting BeamMP Gameserver to the l
 
 :::
 
-1. Navigate to your Horizon Hosting BeamMP Server on the [gamepanel](https://hrzn.link/panel)
+1. Navigate to your Horizon Hosting BeamMP Server on the [game panel](https://hrzn.link/panel)
 2. Go to the **"Settings"** tab
 3. Click **"Reinstall Server"** 
 4. Confirm the server reinstallation
