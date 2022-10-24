@@ -5,7 +5,7 @@ description: How to update your BeamMP Server to the latest version
 ---
 
 ## Introduction
-This guide details how to update your Horizon Hosting BeamMP Gameserver to the latest version, which is currently **3.1.0**. Horizon Hosting are proud to support the latest BeamMP Server.
+This guide details how to update your Horizon Hosting BeamMP Gameserver to the latest version. Horizon Hosting are proud to support the latest BeamMP Server.
 
 
 
