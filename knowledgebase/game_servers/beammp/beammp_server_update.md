@@ -1,6 +1,6 @@
 ---
 id: beammp_server_update
-title: Updating your BeamMP Serve
+title: Updating your BeamMP Server
 description: How to update your BeamMP Server to the latest version
 ---
 
