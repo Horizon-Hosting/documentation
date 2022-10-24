@@ -32,7 +32,7 @@ Horizon Hosting Limited reserves the right to accept or deny refund requests for
 - Managed VPS Services
 - Product Addons
 
-“Managed Services”, for the purpose of this Refund Policy, refers to products and services distributed which can be remotely controlled, edited, logged, or otherwise managed by a Horizon Hosting Limited provided control panel.
+“Managed Services”, for the purpose of this Refund Policy, refers to products and services distributed by Horizon Hosting Limited which can be remotely controlled, edited, logged, or otherwise managed by a Horizon Hosting Limited provided control panel.
 
 ---
 
