@@ -1,7 +1,7 @@
 # Privacy Policy
 
-Last updated: 25th, August 2022 <br/>
-Effective Date: 06th, December 2021
+Last Updated: 03rd, December 2022 <br/>
+Last Reviewed: 03rd, December 2022
 
 ---
 
@@ -16,11 +16,8 @@ https://panel.horizonnetworks.uk ). (the “Service”). By accessing or using t
 you are consenting to the collection, use and disclosure of your information in
 accordance with this Privacy Policy. If you do not consent to the same, please do not
 access or use the Service.
-We may modify this Privacy Policy at any time without any prior notice to you and will
-post the revised Privacy Policy on the Service. The revised Policy will be effective 180
-days from when the revised Policy is posted in the Service and your continued access or
-use of the Service after such time will constitute your acceptance of the revised Privacy
-Policy. We therefore recommend that you periodically review this page.
+We may modify this Privacy Policy at any time without any prior notice, therefore it is your responsibility to periodically review this Privacy Policy to stay informed of updates. 
+You will be subject to and will be deemed to have been made, aware of and to have accepted, the changes in any revised Privacy Policy by your continued use of the Service after the date such revised Acceptible Use Policy are posted.  
 
 ---
 
@@ -108,13 +105,6 @@ marketing purposes by writing to us at legal@horizonnetworks.uk.
 Do note that if you do not allow us to collect or process the required personal information
 or withdraw the consent to process the same for the required purposes, you may not be
 able to access or use the services for which your information was sought.
-
----
-
-## Cookies and other tracking technologies
-
-To learn more about how we use these and your choices in relation to these tracking
-technologies, please refer to our Cookie Policy. https://horizonnetworks.uk/cookies
 
 ---
 
