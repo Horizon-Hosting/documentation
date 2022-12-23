@@ -3,6 +3,7 @@ slug: the_new_horizon
 title: The new Horizon Hosting
 authors: [luca, hayden]
 tags: [updates, important, business]
+date: 2022-08-25T23:00
 ---
 
 As the world moves forward, so should Horizon Networks. That's why over the coming months, changes will be made to improve our services for everyone!
