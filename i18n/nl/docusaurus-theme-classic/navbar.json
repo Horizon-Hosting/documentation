@@ -1,0 +1,46 @@
+{
+  "title": {
+    "message": "Horizon Hosting Documentatie",
+    "description": "The title in the navbar"
+  },
+  "item.label.Knowledgebase": {
+    "message": "Kennisbank",
+    "description": "Navbar item with label Knowledgebase"
+  },
+  "item.label.Docs": {
+    "message": "Docs",
+    "description": "Navbar item with label Docs"
+  },
+  "item.label.Blog": {
+    "message": "Blog",
+    "description": "Navbar item with label Blog"
+  },
+  "item.label.Legal": {
+    "message": "Wettelijk",
+    "description": "Navbar item with label Legal"
+  },
+  "item.label.Billing Panel": {
+    "message": "Factureringspaneel",
+    "description": "Navbar item with label Billing Panel"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  },
+  "item.label.Terms and conditions": {
+    "message": "Algemene voorwaarden",
+    "description": "Navbar item with label Terms and conditions"
+  },
+  "item.label.Privacy Policy": {
+    "message": "Privacybeleid",
+    "description": "Navbar item with label Privacy Policy"
+  },
+  "item.label.Acceptable Use Policy": {
+    "message": "Beleid voor aanvaardbaar gebruik",
+    "description": "Navbar item with label Acceptable Use Policy"
+  },
+  "item.label.Refund Policy": {
+    "message": "Restitutiebeleid",
+    "description": "Navbar item with label Refund Policy"
+  }
+}

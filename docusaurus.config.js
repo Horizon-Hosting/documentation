@@ -19,7 +19,7 @@ const config = {
 
     i18n: {
         defaultLocale: 'en',
-        locales: ['en'],
+        locales: ['en', 'fr', 'de', 'nl', 'sv', 'it'],
     },
 
     scripts: [
@@ -73,7 +73,12 @@ const config = {
                 alt: 'HRZN Logo',
                 src: 'https://archive.horizonnetworks.uk/Branding/Logo/Coloured_Icon.svg',
             },
-            items: [{
+            items: [
+                {
+                    type: 'localeDropdown',
+                    position: 'left',
+                },
+                {
                     type: 'doc',
                     docsPluginId: 'knowledgebase',
                     docId: 'getting_support',

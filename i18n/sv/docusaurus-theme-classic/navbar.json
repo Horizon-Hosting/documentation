@@ -1,0 +1,46 @@
+{
+  "title": {
+    "message": "Dokumentation om Horizon Hosting",
+    "description": "The title in the navbar"
+  },
+  "item.label.Knowledgebase": {
+    "message": "Kunskapsbas",
+    "description": "Navbar item with label Knowledgebase"
+  },
+  "item.label.Docs": {
+    "message": "Dokument",
+    "description": "Navbar item with label Docs"
+  },
+  "item.label.Blog": {
+    "message": "Blogg",
+    "description": "Navbar item with label Blog"
+  },
+  "item.label.Legal": {
+    "message": "Rättslig",
+    "description": "Navbar item with label Legal"
+  },
+  "item.label.Billing Panel": {
+    "message": "Panel för fakturering",
+    "description": "Navbar item with label Billing Panel"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  },
+  "item.label.Terms and conditions": {
+    "message": "Villkor och bestämmelser",
+    "description": "Navbar item with label Terms and conditions"
+  },
+  "item.label.Privacy Policy": {
+    "message": "Integritetspolicy",
+    "description": "Navbar item with label Privacy Policy"
+  },
+  "item.label.Acceptable Use Policy": {
+    "message": "Policy för godtagbar användning",
+    "description": "Navbar item with label Acceptable Use Policy"
+  },
+  "item.label.Refund Policy": {
+    "message": "Återbetalningspolicy",
+    "description": "Navbar item with label Refund Policy"
+  }
+}
