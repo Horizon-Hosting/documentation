@@ -1,0 +1,66 @@
+{
+  "link.title.Quick Links": {
+    "message": "Schnelle Links",
+    "description": "The title of the footer links column with title=Quick Links in the footer"
+  },
+  "link.title.Socials": {
+    "message": "Soziale Netzwerke",
+    "description": "The title of the footer links column with title=Socials in the footer"
+  },
+  "link.title.Legal": {
+    "message": "Rechtliches",
+    "description": "The title of the footer links column with title=Legal in the footer"
+  },
+  "link.item.label.Billing Panel": {
+    "message": "Abrechnungspanel",
+    "description": "The label of footer link with label=Billing Panel linking to https://hrzn.link/billing"
+  },
+  "link.item.label.Game Panel": {
+    "message": "Spiel-Panel",
+    "description": "The label of footer link with label=Game Panel linking to https://hrzn.link/panel"
+  },
+  "link.item.label.cPanel": {
+    "message": "cPanel",
+    "description": "The label of footer link with label=cPanel linking to https://hrzn.link/cpanel"
+  },
+  "link.item.label.Discord": {
+    "message": "Discord",
+    "description": "The label of footer link with label=Discord linking to https://hrzn.link/discord"
+  },
+  "link.item.label.GitHub": {
+    "message": "GitHub",
+    "description": "The label of footer link with label=GitHub linking to https://github.com/Horizon-Hosting"
+  },
+  "link.item.label.Twitter": {
+    "message": "Twitter",
+    "description": "The label of footer link with label=Twitter linking to https://twitter.com/HRZNHosting"
+  },
+  "link.item.label.Instagram": {
+    "message": "Instagram",
+    "description": "The label of footer link with label=Instagram linking to https://www.instagram.com/hrznhosting"
+  },
+  "link.item.label.Facebook": {
+    "message": "Facebook",
+    "description": "The label of footer link with label=Facebook linking to https://www.facebook.com/HRZNHosting/"
+  },
+  "link.item.label.Terms and conditions": {
+    "message": "Bedingungen und Konditionen",
+    "description": "The label of footer link with label=Terms and conditions linking to legal/terms-and-conditions"
+  },
+  "link.item.label.Privacy Policy": {
+    "message": "Datenschutzbestimmungen",
+    "description": "The label of footer link with label=Privacy Policy linking to legal/privacy-policy"
+  },
+  "link.item.label.Acceptable Use Policy": {
+    "message": "Richtlinie zur akzeptablen Nutzung",
+    "description": "The label of footer link with label=Acceptable Use Policy linking to legal/acceptable-use-policy"
+  },
+  "link.item.label.Refund Policy": {
+    "message": "Erstattungspolitik",
+    "description": "The label of footer link with label=Refund Policy linking to legal/refund-policy"
+  },
+  "copyright": {
+    "message": "Copyright © 2023 Horizon Hosting.",
+    "description": "The footer copyright"
+  }
+}

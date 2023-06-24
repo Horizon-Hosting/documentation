@@ -47,9 +47,13 @@ It has been written by [Stanley Dudek](https://github.com/StanleyDudek), and is 
 
 ### Installation
 
-:::info
-We are working on getting CEI added to our mod manager, for easier install. But at this time, it is manual.
-:::
+#### HRZN Hosting Panel
+1. Go to your BeamMP server on our [game panel](https://hrzn.link/panel).
+2. Click on the "Mods" option of the sidebar.
+3. Click on install for "Cobalt Essentials Interface". If you do not see this, please [contact support](/knowledgebase/getting_support).
+4. Restart your BeamMP server in the "Console" tab
+
+#### Manual
 
 1. [Download CEI](https://github.com/StanleyDudek/CobaltEssentialsInterface/releases) by clicking the `Cobalt_Essentials_Interface_...zip`
 2. Upload the ZIP to the root (`"/"`, where the BeamMP-Server executable is) of your server.

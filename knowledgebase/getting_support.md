@@ -23,7 +23,7 @@ For example, DarkRP help or how to install Prometheus!
 
 Discord Tickets should be used for server specific issues, where you think one of our team needs to step in!
 
-To open a ticket, go to the `#new-ticket' channel, and click the correct department.
+To open a ticket, go to the `#new-ticket` channel, and click the correct department.
 Then, sit back and wait while one of our team comes to assist
 
 **Please make your self aware of the support rules in this channel!**
