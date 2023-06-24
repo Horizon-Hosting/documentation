@@ -18,7 +18,7 @@ Installing addons is a cruital part of server development and adds new content t
 7. Start/Restart the server and it will download new addons to the server and load them during boot.
 
 ### Filesystem addons (Premium/Gmodstore)
-1. Once you have purchased your selected addon from Gmodstore or anyother website you will need to download it.
+1. Once you have purchased your selected addon from Gmodstore or any other website you will need to download it.
 2. Now that you have your downloaded addon you will need to upload the file to the server via FTP or the panel.
 3. If using FTP you can also upload folders. Here is a guide on [how to use FTP](https://docs.hrznhosting.com/knowledgebase/general/using_ftp)
 4. If using the [Game Panel](https://hrzn.link/panel) simply go to your service and select Files.
@@ -34,5 +34,3 @@ Please view this guide (Coming Soon) to learn how to make clients to download re
 Please ensure you have changed any addons name to remove capital letters, spaces or special characters are they may the addon from running.
 Be careful not to modify or delete any of the core game files, as this may mean you will need to reinstall your entire Garry's Mod server!
 If using the [Game Panel](https://hrzn.link/panel) make sure you are uploading a file such as a .zip not a folder as that is not supported by web browsers.
-
-And remember, if you are looking for incredibly fast and reliable GMod server hosting, try out Horizon Networks! Start your Garry's Mod server today.

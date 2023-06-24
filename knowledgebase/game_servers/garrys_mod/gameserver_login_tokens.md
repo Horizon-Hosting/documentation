@@ -17,6 +17,5 @@ All Garry's Mod servers can be shown publicly through the Garry's Mod server lis
 
 ## Troubleshooting
 Please ensure you use one token per server as using one for multiple servers will cause authentication issues leading to your players being kicked.
-And remember, if you are looking for incredibly fast and reliable GMod server hosting, try out Horizon Networks! Start your Garry's Mod server today.
 If a GSL Token is not use for a long period of time, it will expire and you will get this message when trying to run the server. "Could not establish connection to Steam servers. (GSL token expired)"
 To fix this, you will need to go back to [Manage Game Server](https://steamcommunity.com/dev/managegameservers) and choose "Regenerate Token" on the token you wish to use. Then you can take the newly generated token and install it on your server.
