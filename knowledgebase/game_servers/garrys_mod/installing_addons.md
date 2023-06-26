@@ -1,6 +1,6 @@
 ---
 id: installing_addons
-title: Installing Addons to your Gmod Server
+title: Installing Addons
 description: How to install an addon to your Garry's Mod server.
 ---
 
