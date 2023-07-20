@@ -14,39 +14,39 @@ SFTP is a variant of the **File Transfer Protocol** (FTP) that allows for secure
 1. Navigate to the [FileZilla Client download page](https://filezilla-project.org/download.php)
 2. Click "Download FileZilla Client"
 3. Run the downloaded file
-   - ![FileZilla downloads page](https://sharex.mack29446.com/wMcFOe.png)
+   - ![FileZilla downloads page](https://archive.horizonnetworks.uk/Resources/Documentation/Using%20SFTP/1FileZilla%20Download.png)
 4. If prompted, click "Yes" on the User Account Control prompt.
-   - ![User Account Control prompt, with Yes highlighted](https://sharex.mack29446.com/Ex5pSb.png)
+   - ![User Account Control prompt, with Yes highlighted](https://archive.horizonnetworks.uk/Resources/Documentation/Using%20SFTP/2Windows%20Prompt.png)
 5. Agree with the license agreement
-   - ![License Agreement page of the FileZilla installer](https://sharex.mack29446.com/eYaAZ2.png)
+   - ![License Agreement page of the FileZilla installer](https://archive.horizonnetworks.uk/Resources/Documentation/Using%20SFTP/3Installer%20Accept.png)
 6. Decline the optional offer
 7. Click next
-   - ![Optional Offer page, with decline option selected](https://sharex.mack29446.com/uhkmMN.png)
+   - ![Optional Offer page, with decline option selected](https://archive.horizonnetworks.uk/Resources/Documentation/Using%20SFTP/4Installer%20Decline%20Offer.png)
 8. Select who you would like FileZilla to be installed for.
 9. Click next
-   - ![Installation Options](https://sharex.mack29446.com/oSJji9.png)
+   - ![Installation Options](https://archive.horizonnetworks.uk/Resources/Documentation/Using%20SFTP/5Installation%20Options.png)
 10. Select which components you want. Gernally, the default selection is okay. If you would like a FileZilla icon on your desktop, select this option.
 11. Click next
-    - ![FileZilla Components](https://sharex.mack29446.com/UInEmv.png)
+    - ![FileZilla Components](https://archive.horizonnetworks.uk/Resources/Documentation/Using%20SFTP/6Installer%20Components.png)
 12. Choose a folder to install FileZilla to. Changing this is not neccessary
 13. Click next
-    - ![Install Location](https://sharex.mack29446.com/gIT9DN.png)
+    - ![Install Location](https://archive.horizonnetworks.uk/Resources/Documentation/Using%20SFTP/7Installer%20Install%20Location.png)
 14. Click install
-    - ![Start menu folder](https://sharex.mack29446.com/onZwXl.png)
+    - ![Start menu folder](https://archive.horizonnetworks.uk/Resources/Documentation/Using%20SFTP/8Installer%20Start%20Menu%20Folder.png)
 15. Once the install is complete, click finish
-    - ![Install complete](https://sharex.mack29446.com/GFupvN.png)
+    - ![Install complete](https://archive.horizonnetworks.uk/Resources/Documentation/Using%20SFTP/9Installer%20Completion.png)
 
 **FileZilla is now installed.**
 
 ### Connecting to your server
 1. Navigate to your server on the panel
-   - ![Gamepanel servers page](https://sharex.mack29446.com/AxhF70.png)
+   - ![Gamepanel servers page](https://archive.horizonnetworks.uk/Resources/Documentation/Using%20SFTP/10Horizon%20Panel%20Servers.png)
 2. Go to settings, and view the SFTP details
-   - ![Gamepanel settings page](https://sharex.mack29446.com/N4KGJY.png)
+   - ![Gamepanel settings page](https://archive.horizonnetworks.uk/Resources/Documentation/Using%20SFTP/11Horizon%20Panel%20Server%20Settings.png)
 3. Copy the server address, and paste it into the "Host" section on FileZilla
 4. Copy the username, and paste it into the "Username" section on FileZilla
-   - ![Server page, with SFTP details highlighted](https://sharex.mack29446.com/8sSlm5.png)
-   - ![FileZilla UI, with Host and Username sections highlighted](https://sharex.mack29446.com/zAqTRO.png)
+   - ![Server page, with SFTP details highlighted](https://archive.horizonnetworks.uk/Resources/Documentation/Using%20SFTP/12Horizon%20Panel%20SFTP%20Details.png)
+   - ![FileZilla UI, with Host and Username sections highlighted](https://archive.horizonnetworks.uk/Resources/Documentation/Using%20SFTP/13FileZilla%20Connection%20Details.png)
 5. Enter your password - this is the same password you use to login to the panel
 6. Leave the port blank - this will be filled in automatically
 7. Click "Quickconnect"
