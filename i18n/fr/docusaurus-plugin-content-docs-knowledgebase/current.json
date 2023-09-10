@@ -32,7 +32,7 @@
     "description": "The label for category 🌐 Web Servers in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.💰 Billing": {
-    "message": "💰 Billing",
+    "message": "💰 Facturation",
     "description": "The label for category 💰 Billing in sidebar tutorialSidebar"
   }
 }
