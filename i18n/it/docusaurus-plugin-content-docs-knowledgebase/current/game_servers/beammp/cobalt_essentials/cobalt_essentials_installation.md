@@ -22,9 +22,9 @@ Hanno anche un [server Discord](https://discord.gg/UV74wNXKdz) per l'assistenza 
 
 #### Pannello di hosting HRZN
 
-1. Vada al suo server BeamMP sul nostro [pannello di gioco] (https://hrzn.link/panel).
+1. Vada al suo server BeamMP sul nostro [pannello di gioco](https://hrzn.link/panel).
 2. Clicchi sull'opzione "Mods" della barra laterale.
-3. Clicchi su installa per "Cobalt Essentials". Se non lo vede, la preghiamo di [contattare l'assistenza] (/knowledgebase/getting_support).
+3. Clicchi su installa per "Cobalt Essentials". Se non lo vede, la preghiamo di [contattare l'assistenza](/knowledgebase/getting_support).
 4. Riavvii il suo server BeamMP nella scheda "Console".
 
 Manuale ####
@@ -48,14 +48,14 @@ CEI è un'interfaccia di gioco per CE. Consente al personale di amministrazione 
 ### Installazione
 
 #### Pannello di hosting HRZN
-1. Vada al suo server BeamMP sul nostro [pannello di gioco] (https://hrzn.link/panel).
+1. Vada al suo server BeamMP sul nostro [pannello di gioco](https://hrzn.link/panel).
 2. Clicchi sull'opzione "Mods" della barra laterale.
-3. Clicchi su installa per "Interfaccia Cobalt Essentials". Se non la vede, la preghiamo di [contattare l'assistenza] (/knowledgebase/getting_support).
+3. Clicchi su installa per "Interfaccia Cobalt Essentials". Se non la vede, la preghiamo di [contattare l'assistenza](/knowledgebase/getting_support).
 4. Riavvii il suo server BeamMP nella scheda "Console".
 
 Manuale ####
 
-1. [Scarica CEI] (https://github.com/StanleyDudek/CobaltEssentialsInterface/releases) cliccando su `Cobalt_Essentials_Interface_...zip`.
+1. [Scarica CEI](https://github.com/StanleyDudek/CobaltEssentialsInterface/releases) cliccando su `Cobalt_Essentials_Interface_...zip`.
 2. Carichi lo ZIP nella root (`"/"`, dove si trova l'eseguibile di BeamMP-Server) del suo server.
 3. Disarchivi il file ZIP.
 4. Apra il file `Resources\Server\CobaltEssentials\LoadExtensions.cfg` e aggiunga `CEI = "CEI"` in fondo.

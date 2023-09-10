@@ -11,7 +11,7 @@ SFTP è una variante del **File Transfer Protocol** (FTP) che consente un trasfe
 
 ## Configurazione di FileZilla
 ### Scaricare e installare FileZilla
-1. Si rechi alla pagina di download di [FileZilla Client] (https://filezilla-project.org/download.php).
+1. Si rechi alla pagina di download di [FileZilla Client](https://filezilla-project.org/download.php).
 2. Clicchi su "Scarica il client FileZilla".
 3. Esegua il file scaricato
    - ![Pagina dei download di FileZilla](https://archive.horizonnetworks.uk/Resources/Documentation/Using%20SFTP/1FileZilla%20Download.png)

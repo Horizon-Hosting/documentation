@@ -16,13 +16,13 @@ Minecraft-servrar kan skapa och använda en subdomän, vilket är mycket lättar
 ## Skapa underdomänen
 
 ### Förkunskapskrav
-1. Navigera till [Game Panel] (https://hrzn.link/panel) och välj den server du vill använda.
+1. Navigera till [Game Panel](https://hrzn.link/panel) och välj den server du vill använda.
 2. Leta reda på serverns IP-adress och port, dessa finns på vänster sida av serverterminalen.
     - Det bör se ut ungefär så här: `94.130.165.43:00000`.
 3. Notera IP-adress och port, detta kommer att behövas längre fram.
 
 ### Lägga till DNS-poster
-1. Navigera till din DNS-leverantör för din domän, t.ex. [Cloudflare] (https://www.cloudflare.com) och logga in.
+1. Navigera till din DNS-leverantör för din domän, t.ex. [Cloudflare](https://www.cloudflare.com) och logga in.
 2. Välj din domän och gå till avsnittet "DNS".
     - Observera att din DNS-leverantör kan ha placerat denna adress någon annanstans.
 

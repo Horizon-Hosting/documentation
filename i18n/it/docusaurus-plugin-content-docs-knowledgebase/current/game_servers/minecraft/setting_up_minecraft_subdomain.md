@@ -16,7 +16,7 @@ I server Minecraft possono creare e utilizzare un sottodominio, che è molto pi�
 ## Creare il sottodominio
 
 ### Pre-requisito
-1. Si rechi nel [Pannello di gioco] (https://hrzn.link/panel) e selezioni il server che desidera utilizzare.
+1. Si rechi nel [Pannello di gioco](https://hrzn.link/panel) e selezioni il server che desidera utilizzare.
 2. Individui l'indirizzo IP e la porta del server, che si troverà sul lato sinistro del terminale del server.
     - Dovrebbe essere simile a questo: `94.130.165.43:00000`.
 3. Annoti l'indirizzo IP e la porta, che saranno necessari più avanti.

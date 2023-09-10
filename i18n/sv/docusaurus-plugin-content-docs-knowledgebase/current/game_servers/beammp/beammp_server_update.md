@@ -16,7 +16,7 @@ Den här guiden beskriver hur du uppdaterar din Horizon Hosting BeamMP Gameserve
 
 :::
 
-1. Navigera till din Horizon Hosting BeamMP Server på [spelpanelen] (https://hrzn.link/panel)
+1. Navigera till din Horizon Hosting BeamMP Server på [spelpanelen](https://hrzn.link/panel)
 2. Gå till fliken **"Inställningar"**
 3. Klicka på **"Installera om server"**
 4. Bekräfta ominstallationen av servern

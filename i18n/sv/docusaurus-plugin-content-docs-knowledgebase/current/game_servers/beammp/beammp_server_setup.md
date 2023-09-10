@@ -15,19 +15,19 @@ Den här guiden beskriver hur du konfigurerar din nya BeamMP Gameserver från Ho
 
 **Var vänlig se till att inte dela denna nyckel. Den här nyckeln är unik för dig.**
 
-1 nyckel per server krävs för att din server ska visas på serverlistan. Om du behöver fler servernycklar kan detta göras genom att donera på [BeamMP Patreon] (https://patreon.com/BeamMP)
+1 nyckel per server krävs för att din server ska visas på serverlistan. Om du behöver fler servernycklar kan detta göras genom att donera på [BeamMP Patreon](https://patreon.com/BeamMP)
 
 ## Startkonfiguration
-Konfigurationsalternativ för din server visas på fliken **"Startup"** i [HRZN Hosting Panel] (https://hrzn.link/panel). Följande fält kommer att visas:
+Konfigurationsalternativ för din server visas på fliken **"Startup"** i [HRZN Hosting Panel](https://hrzn.link/panel). Följande fält kommer att visas:
 
 |Namn | Beskrivning | Exempel |
 |-----|-------------|---------|
-| Autentiseringsnyckel | Din nyckel från [BeamMP Keymaster] (https://beammp.com/k/keys). Detta krävs för att din BeamMP-server ska visas på serverlistan. | `aid693aa-l5c2-5883-b498-z196873fc578` |
+| Autentiseringsnyckel | Din nyckel från [BeamMP Keymaster](https://beammp.com/k/keys). Detta krävs för att din BeamMP-server ska visas på serverlistan. | `aid693aa-l5c2-5883-b498-z196873fc578` |
 | Namn | Namnet på din server, som kommer att visas i serverlistan | `Horizon Networks BeamMP Server` |
 | Bilar | Antalet bilar som en användare kan skapa | `3` |
 | Karta | Den karta som servern ska använda. | `/levels/gridmap_v2/info.json`
 | Beskrivning | Beskrivningen av din server, som visas i serverlistan | `Horizon Networks BeamMP Server` |
-| Max Players | Det maximala antalet spelare som kan finnas på din server, kontakta support via [vår Discord] (https://hrzn.link/discord) eller ändra ditt paket för att redigera detta. | `20` |
+| Max Players | Det maximala antalet spelare som kan finnas på din server, kontakta support via [vår Discord](https://hrzn.link/discord) eller ändra ditt paket för att redigera detta. | `20` |
 | Privat | Om din server ska visas på serverlistan eller inte. Om det är sant kommer den **inte** att visas. | `true` eller `false` |
 
 ## Lägga till klientmodifikationer på din server

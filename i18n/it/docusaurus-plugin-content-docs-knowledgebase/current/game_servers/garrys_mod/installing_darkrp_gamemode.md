@@ -7,7 +7,7 @@ description: Come installare la gamemode DarkRP sul suo server Garry's Mod.
 DarkRP è una struttura di base per creare un'esperienza di RP basata sul crimine. Ci sono molte creazioni e addon gratuiti sul workshop di Steam per rendere il suo server personale. I componenti aggiuntivi premium sono disponibili per l'acquisto su siti web come [gmodstore](https://gmodstore.com).
 
 ## Installare DarkRP utilizzando il gamepanel di Horizon
-1. Si rechi nel [Pannello di gioco] (https://hrzn.link/panel) e vada sul suo server.
+1. Si rechi nel [Pannello di gioco](https://hrzn.link/panel) e vada sul suo server.
 2. Si rechi nella scheda "mods".
 3. Individui "DarkRP" nella sezione gamemodes e clicchi su installa.
 4. Individui "Modifica DarkRP" nella sezione dei componenti aggiuntivi e clicchi su Installa.

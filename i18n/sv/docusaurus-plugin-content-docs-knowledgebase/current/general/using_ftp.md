@@ -31,7 +31,7 @@ Lösenordet är detsamma som lösenordet för ditt panelkonto.
 
 För att ansluta till en FTP-server krävs någon form av FTP-klient.
 
-Några som vi rekommenderar är [FileZilla Client] (https://filezilla-project.org/download.php?type=client) och [WinSCP Client] (https://winscp.net/eng/download.php)
+Några som vi rekommenderar är [FileZilla Client](https://filezilla-project.org/download.php?type=client) och [WinSCP Client](https://winscp.net/eng/download.php)
 
 ### FileZilla
 

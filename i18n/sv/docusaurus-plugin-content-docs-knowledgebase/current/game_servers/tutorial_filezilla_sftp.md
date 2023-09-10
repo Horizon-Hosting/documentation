@@ -11,7 +11,7 @@ SFTP är en variant av **File Transfer Protocol** (FTP) som möjliggör säker �
 
 ## Installation av FileZilla
 ### Ladda ner och installera FileZilla
-1. Navigera till [FileZilla Client download page] (https://filezilla-project.org/download.php)
+1. Navigera till [FileZilla Client download page](https://filezilla-project.org/download.php)
 2. Klicka på "Ladda ner FileZilla Client"
 3. Kör den nedladdade filen
    - ![FileZilla nedladdningssida](https://archive.horizonnetworks.uk/Resources/Documentation/Using%20SFTP/1FileZilla%20Download.png)

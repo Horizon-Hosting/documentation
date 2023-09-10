@@ -6,7 +6,7 @@ description: Hur du får ytterligare stöd från vårt team.
 
 Att få ytterligare stöd är enkelt! Titta bara på de tillgängliga supportalternativen nedan:
 
-**Faktureringsfrågor och begäran om återbetalning ska hanteras via vår [Billing Panel Tickets] (https://hrzn.link/billing)**!
+**Faktureringsfrågor och begäran om återbetalning ska hanteras via vår [Billing Panel Tickets](https://hrzn.link/billing)**!
 
 ## [Discord](https://hrzn.link/discord)
 
