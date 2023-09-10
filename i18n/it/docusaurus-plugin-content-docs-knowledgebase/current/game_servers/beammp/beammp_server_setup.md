@@ -40,24 +40,24 @@ Le mod e le mappe dei clienti saranno scaricate automaticamente da tutti i clien
 
 ## Cambiare la mappa sul suo server
 La modifica della mappa può essere effettuata cambiando il campo `Map` nella scheda **"Avvio "** del Pannello. Di seguito sono riportate le mappe predefinite di BeamNG.Drive che non necessitano di ZIP client aggiuntivi per essere utilizzate:
-* `/livelli/gridmap_v2/info.json`
-* `/livelli/automazione_test_traccia/info.json
-* `/livelli/east_coast_usa/info.json`
-* `/livelli/hirochi_raceway/info.json`
-* `/livelli/italy/info.json`
-* `/livelli/jungle_rock_island/info.json
-* `livelli/industriali/info.json
-* `/livelli/small_island/info.json
-* `/livelli/smallgrid/info.json`
-* `/livelli/utah/info.json
-* `/livelli/west_coast_usa/info.json`
-* `/livelli/formazione del conducente/info.json
-* `livelli/derby/info.json
+* `/levels/gridmap_v2/info.json`
+* `/levels/automation_test_track/info.json`
+* `/levels/east_coast_usa/info.json`
+* `/levels/hirochi_raceway/info.json`
+* `/levels/italy/info.json`
+* `/levels/jungle_rock_island/info.json`
+* `/levels/industrial/info.json`
+* `/levels/small_island/info.json`
+* `/levels/smallgrid/info.json`
+* `/levels/utah/info.json`
+* `/levels/west_coast_usa/info.json`
+* `/levels/driver_training/info.json`
+* `/levels/derby/info.json`
 
 ### Per le mappe personalizzate, è necessaria una configurazione aggiuntiva:
 * Prima di tutto, guardi all'interno dello ZIP della mappa e poi apra la cartella **levels**.
 * All'interno di questa cartella, dovrebbe esserci un'altra cartella. Copi il nome di questa cartella.
-* Modifichi la configurazione della mappa nella sezione **"Avvio "**. Dovrebbe leggere `/livelli/MAPNAME/info.json` con il MAPNAME che è il nome appena copiato.
+* Modifichi la configurazione della mappa nella sezione **"Avvio "**. Dovrebbe leggere `/levels/MAPNAME/info.json` con il MAPNAME che è il nome appena copiato.
 
 ## Unirsi al suo server
 
