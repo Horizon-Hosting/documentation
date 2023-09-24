@@ -1,7 +1,7 @@
 {
-    "label": "🏎️ BeamMP",
-    "position": 2,
+    "label": "BeamMP Basics",
+    "position": 1,
     "link": {
       "type": "generated-index"
     }
-  }
+}
