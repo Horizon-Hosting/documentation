@@ -36,7 +36,7 @@ Minecraft servers can create and utilise a subdomain, which is much easier to r
 7. It may ask for a proxy status and/or TTL time, leave these values unchanged.
 
 Example:
-![A Record Example](../../../static/minecraft/A_record.png)
+![A Record Example](https://archive.horizonnetworks.uk/Resources/Documentation/Minecraft%20Subdomain/A_record.png)
 
 #### SRV Record
 1. In the "DNS" section click the button labeled "Add Record".
@@ -51,7 +51,7 @@ Example:
 10. For the record TTL, leave it as default or the lowest possible option.
 
 Example:
-![SRV Record Example](../../../static/minecraft/SRV_record.png)
+![SRV Record Example](https://archive.horizonnetworks.uk/Resources/Documentation/Minecraft%20Subdomain/SRV_record.png)
 
 ## Common Issues
 #### Not being able to join via the sub-domain

@@ -19,7 +19,7 @@ const config = {
 
     i18n: {
         defaultLocale: 'en',
-        locales: ['en', 'fr', 'de', 'nl', 'sv', 'it'],
+        locales: ['en', 'fr', 'de', 'nl', 'sv', 'it', 'es', 'pl'],
     },
 
     scripts: [

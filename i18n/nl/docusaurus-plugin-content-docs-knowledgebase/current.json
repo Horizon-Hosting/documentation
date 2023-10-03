@@ -30,5 +30,9 @@
   "sidebar.tutorialSidebar.category.🌐 Web Servers": {
     "message": "🌐 Web Servers",
     "description": "The label for category 🌐 Web Servers in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.💰 Billing": {
+    "message": "💰 Facturering",
+    "description": "The label for category 💰 Billing in sidebar tutorialSidebar"
   }
 }

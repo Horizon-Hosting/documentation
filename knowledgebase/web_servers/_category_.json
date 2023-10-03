@@ -1,4 +1,7 @@
 {
     "label": "🌐 Web Servers",
-    "position": 3
+    "position": 4,
+    "link": {
+      "type": "generated-index"
+    }
   }
