@@ -29,14 +29,14 @@ via our Services. We prohibit use of Services for the
 distribution, or storage of any data or other material in violation of any applicable law
 or regulation. This prohibition includes but is not limited to the use, storage or
 transmission of data that is protected by copyright, trademark, trade secret, patent or
-other intellectual property right without proper authorisation and the use, storage or
+other intellectual property right without proper authorization and the use, storage or
 transmission of any material that constitutes illegal threat, defamatory or is otherwise
 unlawful. Some examples of unlawful content include but are not limited to:
 - Infringement: Infringement of any intellectual property rights or other
 proprietary rights including, without limitation, material protected by copyright,
 trademark, patent, trade secret or other intellectual property right.
 Infringement could be the result of unauthorized copying, distribution or
-storage of software, pictures and videos.
+storage of software, pictures and videos. *For more information, please see [our copyright policy](/legal/copyright-policy)*
 - Offensive Materials: Material that is unlawful, defamatory, harassing,
 threatening, harmful, invasive of privacy or publicity rights, abusive or
 otherwise objectionable.
