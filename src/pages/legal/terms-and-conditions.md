@@ -282,7 +282,7 @@ To check if your eligible for a refund, please check with our [Refund Policy](ht
 ## Copyright Policy
 
 We have strict guidelines regarding using copyrighted materials on our services, please refer to [our copyright policy](/legal/copyright-policy) to ensure that you comply with them,
-if you believe that somebody is using your materials without permission on our services, please review the appropriate section on reporting them to us.
+if somebody is using materials you have copyright ownership over, or have permission from the copyright owner to create a copyright claim about, without your permission on our services or products, please review the appropriate section on reporting them to us.
 
 ---
 
