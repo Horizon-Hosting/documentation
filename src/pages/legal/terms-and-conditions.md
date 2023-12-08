@@ -1,7 +1,7 @@
 # Terms and Conditions
 
-Last Updated: 03rd, December 2022 <br/>
-Last Reviewed: 03rd, December 2022
+Last Updated: 08th, December 2023 <br/>
+Last Reviewed: 08th, December 2023
 
 ---
 
@@ -279,11 +279,10 @@ To check if your eligible for a refund, please check with our [Refund Policy](ht
 
 ---
 
-## Copyright Infringements
- 
-We respect the intellectual property rights of others. If you believe that any material available on or through the Site infringes upon any copyright you own or control, please immediately notify us using the contact information provided below (a “Notification”). A copy of your Notification will be sent to the person who posted or stored the material addressed in the Notification.  
+## Copyright Policy
 
-Please remember we bear no responsibility for any infringed property rights and should not be held liable or accountable for any property rights that have been infringed upon using our services or products.
+We have strict guidelines regarding using copyrighted materials on our services, please refer to [our copyright policy](/legal/copyright-policy) to ensure that you comply with them,
+if somebody is using materials you have copyright ownership over, or have permission from the copyright owner to create a copyright claim about, without your permission on our services or products, please review the appropriate section on reporting them to us.
 
 ---
 

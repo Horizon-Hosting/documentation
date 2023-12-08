@@ -7,7 +7,11 @@ description: How to update your BeamMP Server to the latest version
 ## Introduction
 This guide details how to update your Horizon Hosting BeamMP Gameserver to the latest version. Horizon Hosting are proud to support the latest BeamMP Server.
 
+:::warning
 
+**We are aware that the latest update, 3.1.2, breaks Cobalt Essentials and Cobalt Essentials Interface.** We recommend not upgrading BeamMP until support is fixed.
+
+:::
 
 ## Procedure
 :::info
