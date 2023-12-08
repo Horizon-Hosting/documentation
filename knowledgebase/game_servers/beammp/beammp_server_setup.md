@@ -31,7 +31,7 @@ Configuration options for your server will show in the **"Startup" tab** on the 
 | Private | Whether your server should show on the server list or not. If it is true, it will **not** show. | `true` or `false` |
 
 ## Adding client mods to your server
-Adding mods to your server can be done by using the online **"File Manager" tab** or an **SFTP Client**.  
+Adding mods to your server can be done by using the online **"Files tab** on the [HRZN Hosting Panel](https://hrzn.link/panel) or an **SFTP Client**.  
 * Firstly, navigate to the `Resources` folder, and then to the `Client` folder. 
 * Then, upload your mod ZIPs to this folder.
 * Finally, head back to the **"Console" tab** on the panel. Here, click restart to restart your server and apply the changes.

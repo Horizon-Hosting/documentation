@@ -279,6 +279,13 @@ To check if your eligible for a refund, please check with our [Refund Policy](ht
 
 ---
 
+## Copyright Policy
+
+We have strict guidelines regarding using copyrighted materials on our services, please refer to [our copyright policy](/legal/copyright-policy) to ensure that you comply with them,
+if you believe that somebody is using your materials without permission on our services, please review the appropriate section on reporting them to us.
+
+---
+
 ## Copyright Infringements
  
 We respect the intellectual property rights of others. If you believe that any material available on or through the Site infringes upon any copyright you own or control, please immediately notify us using the contact information provided below (a “Notification”). A copy of your Notification will be sent to the person who posted or stored the material addressed in the Notification.  

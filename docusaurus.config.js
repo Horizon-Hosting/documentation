@@ -116,6 +116,10 @@ const config = {
                             label: 'Refund Policy',
                             to: 'legal/refund-policy',
                         },
+                        {
+                            label: 'Copyright Policy',
+                            to: 'legal/copyright-policy',
+                        },
                     ],
 
                 },
