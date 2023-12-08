@@ -1,7 +1,7 @@
 # Terms and Conditions
 
-Last Updated: 03rd, December 2022 <br/>
-Last Reviewed: 03rd, December 2022
+Last Updated: 08th, December 2023 <br/>
+Last Reviewed: 08th, December 2023
 
 ---
 
