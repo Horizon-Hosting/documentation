@@ -286,14 +286,6 @@ if somebody is using materials you have copyright ownership over, or have permis
 
 ---
 
-## Copyright Infringements
- 
-We respect the intellectual property rights of others. If you believe that any material available on or through the Site infringes upon any copyright you own or control, please immediately notify us using the contact information provided below (a “Notification”). A copy of your Notification will be sent to the person who posted or stored the material addressed in the Notification.  
-
-Please remember we bear no responsibility for any infringed property rights and should not be held liable or accountable for any property rights that have been infringed upon using our services or products.
-
----
-
 ## Term And Termination
 
 These Terms and Conditions shall remain in full force and effect while you use the Site. 
