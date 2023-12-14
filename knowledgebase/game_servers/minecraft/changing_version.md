@@ -20,7 +20,7 @@ We highly encourage making a backup of the server before switching version, data
 If the server fails to start and the console outputs something along the lines of ``Minecraft x.xx requires running the server with Java xx or above.`` Then it means your server is using the wrong java version and the version of Minecraft you are using does not support the Java version you are trying to use it with. To fix this follow the steps below.
 1. Navigate to the startup startup section and locate the **Docker Image** field.
 2. Select the correct docker image that matches your server version as below.
-    - Minecraft version 1.8 use Java 8
-    - Minecraft version 1.12 use Java 11
-    - Minecraft version 1.17 use Java 16
-    - Minecraft version 1.18 use Java 17
+    - Minecraft version 1.8 use `ghcr.io/pterodactyl/yolks:java_8`
+    - Minecraft version 1.12 use `ghcr.io/pterodactyl/yolks:java_11`
+    - Minecraft version 1.17 use `ghcr.io/pterodactyl/yolks:java_16`
+    - Minecraft version 1.18 use `ghcr.io/pterodactyl/yolks:java_17`
