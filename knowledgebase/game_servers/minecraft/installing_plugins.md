@@ -1,6 +1,6 @@
 ---
 id: installing_plugins
-title: Installing Plugins
+title: Installing plugins
 description: How to install plugins on your minecraft server.
 ---
 Minecraft servers such as Spigot or Paper are able to run plugins which modify the experience within the server. Plugins come in many different forms and this guide explains how to setup and install plugins on your server.

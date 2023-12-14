@@ -1,6 +1,6 @@
 ---
 id: changing_server_icon
-title: Changing the Server Icon
+title: Changing the server Icon
 description: How to change the server icon that displays on the multiplayer server list.
 ---
 A server icon is a picture or logo that shows up on the left side of the server name in your Minecraft client's multiplayer list.
