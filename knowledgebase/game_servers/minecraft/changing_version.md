@@ -15,12 +15,15 @@ We highly encourage making a backup of the server before switching version, data
 4. We highly encourage making a backup of the server
 5. Navigate to the settings page and press the **Reinstall** button.
 
+## Changing server type
+Changing the server type for example `PaperMC -> Forge` is currently not easily done, the easist and most simple way to change server type is opening a [support request](/knowledgebase/getting_support) asking for us to do this for you.
+
 ## Common Issues
 ### Invalid Java Version
 If the server fails to start and the console outputs something along the lines of ``Minecraft x.xx requires running the server with Java xx or above.`` Then it means your server is using the wrong java version and the version of Minecraft you are using does not support the Java version you are trying to use it with. To fix this follow the steps below.
 1. Navigate to the startup startup section and locate the **Docker Image** field.
 2. Select the correct docker image that matches your server version as below.
-    - Minecraft version 1.8 use `ghcr.io/pterodactyl/yolks:java_8`
-    - Minecraft version 1.12 use `ghcr.io/pterodactyl/yolks:java_11`
-    - Minecraft version 1.17 use `ghcr.io/pterodactyl/yolks:java_16`
-    - Minecraft version 1.18 use `ghcr.io/pterodactyl/yolks:java_17`
+    - Minecraft version 1.8 use `ghcr.io/pterodactyl/yolks:java_8` or any version after
+    - Minecraft version 1.12 use `ghcr.io/pterodactyl/yolks:java_11` or any version after
+    - Minecraft version 1.17 use `ghcr.io/pterodactyl/yolks:java_16` or any version after
+    - Minecraft version 1.18 use `ghcr.io/pterodactyl/yolks:java_17` or any version after
