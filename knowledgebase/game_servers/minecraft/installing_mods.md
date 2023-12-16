@@ -19,6 +19,6 @@ When downloading a mod file you must also ensure the following applies
 
 ## Installing a mod
 1. You need to obtain the mod file for example `EXAMPLE_PLUGIN.jar` and ensuring its using the correct Minecraft version that you are running your server with.
-2. Once obtaining the jar file you can upload it to your Minecraft server using either the pterodactyl file manager or a SFTP client like [FileZilla.](/knowledgebase/game_servers/tutorial_filezilla_sftp)
+2. Once obtaining the jar file you can upload it to your Minecraft server using either the panel file manager or an SFTP client like [FileZilla](/knowledgebase/game_servers/tutorial_filezilla_sftp).
 3. Upload the plugin file inside the directory named `mods`
 4. After uploading the jar file you can go back to the console tab and restart the server.
