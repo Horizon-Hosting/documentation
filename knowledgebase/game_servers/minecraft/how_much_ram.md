@@ -1,7 +1,7 @@
 ---
-id: how_much_ram
-title: How much ram do I need?
-description: Learn how much ram you need for your Minecraft server and which plan is right for you.
+id: how_much_RAM
+title: How much RAM do I need?
+description: Learn how much RAM you need for your Minecraft server and which plan is right for you.
 ---
 Various amounts of RAM will be needed for different Minecraft servers depending on their setup and intended use. A Minecraft server's performance will suffer or even crash if it has less RAM than it requires, so it's critical to know what factors influence RAM usage and how much is required. A server will typically require more RAM the more players and addons (mods/plugins) it supports.
 

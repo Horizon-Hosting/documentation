@@ -22,7 +22,9 @@ To change your server type, for example changing `PaperMC -> Forge`, please make
 If the server fails to start and the console outputs something along the lines of ``Minecraft x.xx requires running the server with Java xx or above.`` Then it means your server is using the wrong Java version and the version of Minecraft you are using does not support the Java version you are trying to use it with. To fix this follow the steps below:
 1. Navigate to the startup startup section and locate the **Docker Image** field.
 2. Select the correct Docker image that matches your server version as below.
-    - **Minecraft version 1.8** use `ghcr.io/pterodactyl/yolks:java_8` or any version after
-    - **Minecraft version 1.12** use `ghcr.io/pterodactyl/yolks:java_11` or any version after
-    - **Minecraft version 1.17** use `ghcr.io/pterodactyl/yolks:java_16` or any version after
-    - **Minecraft version 1.18** use `ghcr.io/pterodactyl/yolks:java_17` or any version after
+    - **Minecraft version 1.8** use `ghcr.io/pterodactyl/yolks:java_8`
+    - **Minecraft version 1.12** use `ghcr.io/pterodactyl/yolks:java_11`
+    - **Minecraft version 1.17** use `ghcr.io/pterodactyl/yolks:java_16`
+    - **Minecraft version 1.18** use `ghcr.io/pterodactyl/yolks:java_17`
+
+If you are using a minecraft version that does not run on one of the java version's listed above open a [support request](/knowledgebase/getting_support) and we will able to change it for you.

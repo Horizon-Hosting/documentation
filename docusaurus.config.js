@@ -5,7 +5,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-    title: 'HRZN Hosting Docs',
+    title: 'HRZN Hosting Knowledgebase',
     tagline: 'High performance. Low prices. No compromises.',
     url: 'https://docs.horizonnetworks.uk',
     baseUrl: '/',
@@ -38,9 +38,6 @@ const config = {
             'classic',
             /** @type {import('@docusaurus/preset-classic').Options} */
             ({
-                docs: {
-                    sidebarPath: require.resolve('./sidebars_docs.js'),
-                },
                 blog: {
                     showReadingTime: true,
 
@@ -84,12 +81,6 @@ const config = {
                     docId: 'getting_support',
                     position: 'left',
                     label: 'Knowledgebase',
-                },
-                {
-                    type: 'doc',
-                    docId: 'intro',
-                    position: 'left',
-                    label: 'Docs',
                 },
                 {
                     to: '/blog',
@@ -201,11 +192,11 @@ const config = {
         },
         metadata: [{
             name: 'og:title',
-            content: 'HRZN Hosting Knowledgebase & Docs',
+            content: 'HRZN Hosting Knowledgebase',
         },
         {
             name: 'og-site_name',
-            content: 'HRZN Hosting Docs',
+            content: 'HRZN Hosting Knowledgebase',
         },
         {
             name: 'og:description',
