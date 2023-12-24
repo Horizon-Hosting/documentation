@@ -33,25 +33,7 @@ const config = {
         }
     ],
 
-    presets: [
-        [
-            'classic',
-            /** @type {import('@docusaurus/preset-classic').Options} */
-            ({
-                docs: {
-                    sidebarPath: require.resolve('./sidebars_docs.js'),
-                },
-                blog: {
-                    showReadingTime: true,
-
-                    editUrl: 'https://github.com/Horizon-Hosting/Documentation/edit/pre-release',
-                },
-                theme: {
-                    customCss: require.resolve('./src/css/colours.css'),
-                },
-            }),
-        ],
-    ],
+    presets: [],
 
     plugins: [
         [
