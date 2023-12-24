@@ -5,7 +5,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-    title: 'HRZN Hosting Knowledgebase',
+    title: 'HRZN Hosting Docs',
     tagline: 'High performance. Low prices. No compromises.',
     url: 'https://docs.horizonnetworks.uk',
     baseUrl: '/',
@@ -66,6 +66,12 @@ const config = {
                     docId: 'getting_support',
                     position: 'left',
                     label: 'Knowledgebase',
+                },
+                {
+                    type: 'doc',
+                    docId: 'intro',
+                    position: 'left',
+                    label: 'Docs',
                 },
                 {
                     to: '/blog',
