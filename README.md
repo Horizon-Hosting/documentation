@@ -35,10 +35,6 @@ emoji, to make it easier for the user to identify the article, if it is not part
 
 Articles should be written about setting up, configuring, and using our services. For example, "Setting up Prometheus store", these topics can be interchangeably used for most hosts, however the article should be written according to using our services. This is to make sure the article is easy the user. You may also include screenshots (Which must be uploaded to the imgur service, and not a custom ShareX host) in the article, if you wish, these should be taken using our software (like our panel). If you don't have access to the software, you could let us know in the PR and we could take a screenshot for you, or give you a month's service, so you could do this yourself.
 
-## Documentation
-
-**WIP**
-
 ## Blogs (Staff only)
 
 When writing up a blog, you first make a markdown file, with a short but descriptive title. For example, `making-the-website.md` and this should be placed in
