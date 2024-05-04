@@ -21,7 +21,6 @@ description: What is this?
 ---
 ```
 
-`id` is the unique identifier for the article. It is used to link to the article from other pages.
 `title` is the title, which the user sees on the page. This should be a short, but descriptive title, correctly capitalised. It should also begin with a relevant
 emoji, to make it easier for the user to identify the article, if it is not part of a category.
 `description` is a short description of the article, which the user sees on the page. This should be a short, but descriptive description, correctly capitalised.
