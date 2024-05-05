@@ -40,12 +40,10 @@ export default defineConfig({
 					label: 'Minecraft',
 					autogenerate: { directory: 'minecraft' },
 				},
-				/* -------------------- NOT READY FOR PRODUCTION --------------------
 				{
 					label: 'Vuirtual Private Server',
 					autogenerate: { directory: 'vps' },
 				},
-				*/
 				{
 					label: 'Legal',
 					collapsed: false,
