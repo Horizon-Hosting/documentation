@@ -2,8 +2,8 @@
 title: Branding Guidelines
 description: N/A
 ---
-Last Updated: 4th, May 2024 <br/>
-Last Reviewed: 4th, May 2024
+Last Updated: 5th, May 2024 <br/>
+Last Reviewed: 5th, May 2024
 
 Horizon Hosting is happy to introduce our new style, this has been refined from the well known one to give Horizon Hosting a more defined and sophisticated look, with this, we are happy to let anyone who wishes use our trademarks, logos, images, screenshots and other digital media ("Horizon Assets") to refer to Horizon Hosting, however they are owned by Horizon Hosting Limited and must be used in compliance with these terms and guidelines. Please note this does not license the use of closed-source code, websites, or other Horizon Hosting owned media that isn't covered as Horizon Assets.
 
@@ -34,7 +34,6 @@ You should ensure that the exclusion zone is not being intruded upon by other ob
 #### Stay Within The Minimum Constraints
 <img src="https://archive.hrznhosting.com/Resources/Brand_Guidelines/constraints_do_x2.png" class="mw-100 p-2" style="background: whitesmoke; border-radius: 2px;"/>
 You should make sure that the logo is above 50px / 5cm in height and is recognizable and legible.
-
 
 ## Use Colours Chosen by Us
 You should ensure that any background colour is chosen from our own brand colours.</p>
@@ -82,6 +81,12 @@ All of these terms are not intended to provide any advantage or benefit towards 
 
 ## Logos in Use
 Below, you can download all icons that are currently in use, please remember to follow the brand guidelines and provide attribution with a link to <a href="https://hrznhosting.com">hrznhosting.com</a> when using any assets.
+- Coloured Icon - [SVG](https://archive.hrznhosting.com/Branding/Logo/Coloured_Icon.svg) [PNG](https://archive.hrznhosting.com/Branding/Logo/Coloured_Icon.png)
+- Coloured Full - [SVG](https://archive.hrznhosting.com/Branding/Logo/Coloured_Full.svg) [PNG](https://archive.hrznhosting.com/Branding/Logo/Coloured_Full.png)
+- Coloured Icon White - [SVG](https://archive.hrznhosting.com/Branding/Logo/White_Icon.svg) [PNG](https://archive.hrznhosting.com/Branding/Logo/White_Icon.png)
+- Coloured Full White - [SVG](https://archive.hrznhosting.com/Branding/Logo/Coloured_White_Logo.svg) [PNG](https://archive.hrznhosting.com/Branding/Logo/Coloured_White_Logo.png)
+- Otto Icon - [SVG](https://archive.hrznhosting.com/Branding/Products/Otto/Icon.svg) [PNG](https://archive.hrznhosting.com/Branding/Products/Otto/Icon.png)
+- Otto Full - [SVG](https://archive.hrznhosting.com/Branding/Products/Otto/Logo.svg) [PNG](https://archive.hrznhosting.com/Branding/Products/Otto/Logo.png)
 
 ## Special Badges
 Current Horizon doesn't provide any special badges for partnerships, etc. In the future if Horizon supports these special badges, a section will be added to include them.
