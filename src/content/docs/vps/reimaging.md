@@ -1,11 +1,7 @@
 ---
-id: reimaging
 title: Reimaging your server
 description: How to rebuild and reimage your server to a different or fresh os version.
 ---
-When reimaging a server there is a few things you need, a SSH key which you can follow the guide [here](VPS GUIDE)
-
-## Reimaging a server
 1. Locate your server on the [VirtFusion Panel](https://vps.hrznhosting.com/) and click manage
 2. Scroll down to the VPS management options shown below and click **Rebuild**
 3. Set the name to the name you with to use for your VPS

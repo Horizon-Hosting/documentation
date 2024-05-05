@@ -1,5 +1,4 @@
 ---
-id: how_to_login
 title: How to Login to the panel
 description: How to login to the panel and setup 2fa
 ---
@@ -18,7 +17,7 @@ https://vps.hrznhosting.com/
 If you do not recieve an email after 10-20 minutes please [Contact Support](/general/getting-support)
 :::
 
-## The access panel
+## Accessing the panel
 Below is an image of the login page. Here you will need to enter the login which you were given in the above email.
 
 ![Login Page](/assets/login_page.png)
@@ -27,16 +26,12 @@ Once you have logged into the panel you will be greeted with all of the informat
 [Please see this guide on how to setup your server.](/docs/vps/setup)
 ![Dashbaord](/assets/dashboard.png)
 
-## 2FA Setup and Password change
-If you would like to setup 2 factor authenticaion for your account please use the following steps.
-
-### 2FA
-Navigate to Security then there will be a popup giving you options to setup 2fa. 
-You can either choose to use App Based TOTP or Yubikey OTP.
-
-![2FA Options](/assets/2fa_options.png)
-
-### Password changing
-In this same tab you can select to change your password
+## Changing your password
+Once you login we advise changing your password, in order to do this, Navigate to **Security** and you can select to change your password. Input your old password and then new password and click **Save**
 
 ![Password Options](/assets/password_change.png)
+
+## Setting up 2FA
+We highly advise setting up 2FA to add an extra layer of security onto your account. Navigate to **Security** then there will be a popup giving you options to setup 2fa.  You can either choose to use App Based TOTP or Yubikey OTP.
+
+![2FA Options](/assets/2fa_options.png)
