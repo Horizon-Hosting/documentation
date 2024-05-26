@@ -41,7 +41,7 @@ export default defineConfig({
 					autogenerate: { directory: 'minecraft' },
 				},
 				{
-					label: 'Vuirtual Private Server',
+					label: 'Virtual Private Server',
 					autogenerate: { directory: 'vps' },
 				},
 				{
