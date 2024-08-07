@@ -1,4 +1,6 @@
-import { defineConfig } from 'astro/config';
+import {
+	defineConfig
+} from 'astro/config';
 import starlight from '@astrojs/starlight';
 import node from '@astrojs/node';
 
@@ -6,7 +8,7 @@ import node from '@astrojs/node';
 export default defineConfig({
 	output: "server",
 	adapter: node({
-	  	mode: "standalone"
+		mode: "standalone"
 	}),
 	integrations: [
 		starlight({
@@ -19,35 +21,54 @@ export default defineConfig({
 			social: {
 				github: 'https://github.com/Horizon-Hosting/documentation',
 			},
-			sidebar:  [
-				{
+			sidebar: [{
 					label: 'Billing',
-					autogenerate: { directory: 'billing' },
+					autogenerate: {
+						collapsed: true,
+						directory: 'billing'
+					},
 				},
 				{
 					label: 'General',
-					autogenerate: { directory: 'general' },
+					autogenerate: {
+						collapsed: true,
+						directory: 'general'
+					},
 				},
 				{
 					label: 'Garrys Mod',
-					autogenerate: { directory: 'gmod' },
+					autogenerate: {
+						collapsed: true,
+						directory: 'gmod'
+					},
 				},
 				{
 					label: 'BeamMP',
-					autogenerate: { directory: 'beammp' },
+					autogenerate: {
+						collapsed: true,
+						directory: 'beammp'
+					},
 				},
 				{
 					label: 'Minecraft',
-					autogenerate: { directory: 'minecraft' },
+					autogenerate: {
+						collapsed: true,
+						directory: 'minecraft'
+					},
 				},
 				{
 					label: 'Virtual Private Server',
-					autogenerate: { directory: 'vps' },
+					autogenerate: {
+						collapsed: true,
+						directory: 'vps'
+					},
 				},
 				{
 					label: 'Legal',
-					collapsed: false,
-					autogenerate: { directory: 'legal' },
+					autogenerate: {
+						collapsed: true,
+						directory: 'legal'
+					},
 				}
 			],
 		}),

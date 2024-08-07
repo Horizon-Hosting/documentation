@@ -2,8 +2,8 @@
 title: Copyright Policy
 description: N/A
 ---
-Last Updated: 08th, December 2023 <br/>
-Last Reviewed: 08th, December 2023
+Last Updated: 07th, August 2024 <br/>
+Last Reviewed: 07th, August 2024
 
 This Copyright Policy describes the terms for using and reporting illegal use of copyrighted materials on products and services distributed by Horizon Hosting Limited ("we", "us", or "our"), Company Number 13693820, Old Airfield Farm, Gloucester, Gloucestershire GL2 7NG, United Kingdom of Great Britain and Northern Ireland, email: legal@hrznhosting.com, phone: 07421353203.
 
@@ -22,7 +22,7 @@ Whilst using any products or services distributed by Horizon Hosting Limited sho
 
 ## How to contact us
 
-If you would like to create a claim, or you have any questions regarding this policy, please create an [abuse billing ticket](https://billing.hrznhosting.com/submitticket.php?step=2&deptid=5) or email us at [director@hrznhosting.com](mailto:director@hrznhosting.com).
+If you would like to create a claim, or you have any questions regarding this policy, please create an [abuse billing ticket](https://billing.hrznhosting.com/submitticket.php?step=2&deptid=5) or email us at [hayden@hrznhosting.com](mailto:hayden@hrznhosting.com).
 
 
 ## Enforcement of the policy

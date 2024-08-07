@@ -2,15 +2,15 @@
 title: Refund Policy
 description: N/A
 ---
-Last Updated: 03rd, December 2022 <br/>
-Last Reviewed: 03rd, December 2022
+Last Updated: 07th, August 2024 <br/>
+Last Reviewed: 07th, August 2024
 
 This Refund Policy describes the terms for providing reimbursements on products and services distributed by Horizon Hosting Limited ("we", "us", or "our"), Company Number 13693820, Old Airfield Farm, Gloucester, Gloucestershire GL2 7NG, United Kingdom of Great Britain and Northern Ireland, email: legal@hrznhosting.com, phone: 07421353203.
 
 We may modify this Refund Policy at any time without any prior notice, therefore it is your responsibility to periodically review this Refund Policy to stay informed of updates. You will be subject to and will be deemed to have been made, aware of and to have accepted, the changes in any revised Acceptible Use Policy by your continued use of the Service after the date such revised Refund Policy are posted.  
 
 ## Standard Refund Terms
-Products and services distributed by us may only be refunded if the customer requested a refund using the support ticket system within twenty-four (24) hours from the date of transaction.
+Products and services distributed by us may only be refunded if the customer requested a refund using the support ticket system within seventy-two (72) hours from the date of transaction.
 
 Please Note: If a refund to your original payment method is not possible, we will provide a refund to your billing system balance as an alternative.
 
