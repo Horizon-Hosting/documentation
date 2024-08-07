@@ -24,7 +24,7 @@ We will collect and process the following personal information about you:
 - Full Name
 - Email Address
 - Mobile Number
-- Shipping Information
+- Billing Address
 - Payment Info
 - IP Address
 
