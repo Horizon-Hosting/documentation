@@ -2,8 +2,8 @@
 title: Privacy Policy
 description: N/A
 ---
-Last Updated: 03rd, December 2022 <br/>
-Last Reviewed: 03rd, December 2022
+Last Updated: 07th, August 2024 <br/>
+Last Reviewed: 07th, August 2024
 
 This Privacy Policy describes the policies of Horizon Hosting Limited (Company Number: 13693820), Old Airfield Farm,
 Gloucester, Gloucestershire GL2 7NG, United Kingdom of Great Britain and Northern
@@ -15,17 +15,16 @@ you are consenting to the collection, use and disclosure of your information in
 accordance with this Privacy Policy. If you do not consent to the same, please do not
 access or use the Service.
 We may modify this Privacy Policy at any time without any prior notice, therefore it is your responsibility to periodically review this Privacy Policy to stay informed of updates. 
-You will be subject to and will be deemed to have been made, aware of and to have accepted, the changes in any revised Privacy Policy by your continued use of the Service after the date such revised Acceptible Use Policy are posted.  
+You will be subject to and will be deemed to have been made, aware of and to have accepted, the changes in any revised Privacy Policy by your continued use of the Service after the date such revised Acceptable Use Policy are posted.  
 
 
 ## Information we collect
 
 We will collect and process the following personal information about you:
-- Name
-- Email
-- Mobile
-- Social Media Profile
-- Address
+- Full Name
+- Email Address
+- Mobile Number
+- Shipping Information
 - Payment Info
 - IP Address
 
@@ -42,14 +41,10 @@ From public sources
 
 We will use the information that we collect about you for the following purposes:
 - Creating user account
-- Enforce T&C
-- Processing payment
-- Support
-- Administration info
-- Manage customer order
-- Site protection
-- Dispute resolution
-- Manage user account
+- Enforcing T&C
+- Payment processing
+- Customer Support
+- Site Notifications
 If we want to use your information for any other purpose, we will ask you for consent and
 will use your information only on receiving your consent and then, only for the
 purpose(s) for which grant consent unless we are required to do otherwise by law.

@@ -2,8 +2,8 @@
 title: Branding Guidelines
 description: N/A
 ---
-Last Updated: 5th, May 2024 <br/>
-Last Reviewed: 5th, May 2024
+Last Updated: 07th, August 2024 <br/>
+Last Reviewed: 07th, August 2024
 
 Horizon Hosting is happy to introduce our new style, this has been refined from the well known one to give Horizon Hosting a more defined and sophisticated look, with this, we are happy to let anyone who wishes use our trademarks, logos, images, screenshots and other digital media ("Horizon Assets") to refer to Horizon Hosting, however they are owned by Horizon Hosting Limited and must be used in compliance with these terms and guidelines. Please note this does not license the use of closed-source code, websites, or other Horizon Hosting owned media that isn't covered as Horizon Assets.
 
@@ -64,16 +64,16 @@ You should never suggest or imply association, endorsement or partnership betwee
 You should not use Horizon assets in any way that could be seen as defamatory towards Horizon or a third party, additionally you should not use Horizon assets to promote, produce or endorse illegal goods or acts.
 
 ## Don't Impersonate
-Please do not use any Horizon assets to trick, deceive or otherwise attempt to appear as us. You may not use Horizon assets to immitate or impersonate our brand or our company. If you believe there could be a misconseption with relation or ownership please ensure that you take the appropriate action to notify anyone that you are not related to Horizon.
+Please do not use any Horizon assets to trick, deceive or otherwise attempt to appear as us. You may not use Horizon assets to imitate or impersonate our brand or our company. If you believe there could be a misconception with relation or ownership please ensure that you take the appropriate action to notify anyone that you are not related to Horizon.
 
 ## The Legal Description
 By following Horizon Hosting's Brand Guidelines Horizon Hosting grants you non-transferable, non-exclusive, royalty-free limited license to use the specified Horizon Assets for referring to Horizon Hosting in the manner specified. By using Horizon Assets you agree to these terms.
 
-Any use of Horizon Assets must include clear and readable attribution that indicates ownership towards Horizon Hosting. Only Horizon Hosting may choose whether a particular use of Horizon Asssets is deemed to be breaking guidelines and needs to be removed or changed. Changes to these terms can occour at any time. If changes are made we will attempt to make notice to all clients via email. By using Horizon Assets you agree to be contacted about the improper use of Horizon Assets. Nothing in the Terms grants or should be interpreted as granting you rights to Horizon Assets. You agree to not violate or assist others to violate the Terms.
+Any use of Horizon Assets must include clear and readable attribution that indicates ownership towards Horizon Hosting. Only Horizon Hosting may choose whether a particular use of Horizon Asssets is deemed to be breaking guidelines and needs to be removed or changed. Changes to these terms can occur at any time. If changes are made we will attempt to make notice to all clients via email. By using Horizon Assets you agree to be contacted about the improper use of Horizon Assets. Nothing in the Terms grants or should be interpreted as granting you rights to Horizon Assets. You agree to not violate or assist others to violate the Terms.
 
-Horizon Hosting reserves the right to take any action against use of Horizon Assets that violates the Terms or infringes Horizon Hostings intellectual property or other rights, or violates applicable laws. You may not grant your own rights to Horizon Assets without Horizon Hosting's written consent.
+Horizon Hosting reserves the right to take any action against use of Horizon Assets that violates the Terms or infringes Horizon Hosting's intellectual property or other rights, or violates applicable laws. You may not grant your own rights to Horizon Assets without Horizon Hosting's written consent.
 
-Any parties using Horizon Assets are seperate from Horizon Hosting Limited and should not be deemed to be an employee partner or legal representative. They also shall not have rights or powers to make decisions or obligations on behalf of Horizon Hosting.
+Any parties using Horizon Assets are separate from Horizon Hosting Limited and should not be deemed to be an employee partner or legal representative. They also shall not have rights or powers to make decisions or obligations on behalf of Horizon Hosting.
 
 The terms are governed by and constructed under the United Kingdom. Any failure or delay to Horizon Hosting executing any right or power should not be classed as waiving the privilege to do so.
 
