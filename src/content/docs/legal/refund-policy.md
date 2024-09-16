@@ -5,7 +5,7 @@ description: N/A
 Last Updated: 07th, August 2024 <br/>
 Last Reviewed: 07th, August 2024
 
-This Refund Policy describes the terms for providing reimbursements on products and services distributed by Horizon Hosting Limited ("we", "us", or "our"), Company Number 13693820, Old Airfield Farm, Gloucester, Gloucestershire GL2 7NG, United Kingdom of Great Britain and Northern Ireland, email: legal@hrznhosting.com, phone: 07421353203.
+This Refund Policy describes the terms for providing reimbursements on products and services distributed by Horizon Hosting Limited ("we", "us", or "our"), Company Number 13693820, 11 Ann Wicks Road, Frampton On Severn, Gloucester, GL2 7HH, United Kingdom of Great Britain and Northern Ireland, email: legal@hrznhosting.com, phone: **+44 20 31379373**.
 
 We may modify this Refund Policy at any time without any prior notice, therefore it is your responsibility to periodically review this Refund Policy to stay informed of updates. You will be subject to and will be deemed to have been made, aware of and to have accepted, the changes in any revised Acceptible Use Policy by your continued use of the Service after the date such revised Refund Policy are posted.  
 

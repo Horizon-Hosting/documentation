@@ -8,7 +8,7 @@ Last Reviewed: 03rd, December 2022
 This Acceptable Use Policy (“AUP”) describes the policies of Horizon Hosting Limited ("we", "us", or "our"), Company Number 13693820, Old
 Airfield Farm, Gloucester, Gloucestershire GL2 7NG, United Kingdom of Great
 Britain and Northern Ireland, email: legal@hrznhosting.com, phone:
-07421353203 on the use, management and access that you are granted with when
+**+44 20 31379373** on the use, management and access that you are granted with when
 purchasing a product on our website (https://billing.hrznhosting.com). (the
 “Service”). By accessing or using the Service, you acknowledge that you and users
 that have gained access to Services through Customer accounts (“Users”) are
