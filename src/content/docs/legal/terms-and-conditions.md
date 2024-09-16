@@ -375,5 +375,5 @@ You hereby waive any and all defenses you may have based on the electronic form 
 In order to resolve a complaint regarding the Site or to receive further information regarding use of the Site, please contact us at:  
  
 Horizon Hosting 
-Old Airfield Farm, Gloucester GL2 7NG 
-07421353203 legal@hrznhosting.com 
+11 Ann Wicks Road, Frampton On Severn, Gloucester, GL2 7HH, United Kingdom of Great Britain and Northern Ireland
+**+44 20 31379373** legal@hrznhosting.com 

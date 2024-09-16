@@ -5,9 +5,7 @@ description: N/A
 Last Updated: 07th, August 2024 <br/>
 Last Reviewed: 07th, August 2024
 
-This Privacy Policy describes the policies of Horizon Hosting Limited (Company Number: 13693820), Old Airfield Farm,
-Gloucester, Gloucestershire GL2 7NG, United Kingdom of Great Britain and Northern
-Ireland (the), email: legal@hrznhosting.com, phone: 07421353203 on the collection,
+This Privacy Policy describes the policies of Horizon Hosting Limited (Company Number: 13693820), 11 Ann Wicks Road, Frampton On Severn, Gloucester, GL2 7HH, United Kingdom of Great Britain and Northern Ireland (the), email: legal@hrznhosting.com, phone: **+44 20 31379373** on the collection,
 use and disclosure of your information that we collect when you use our website
 (https://hrznhosting.com, https://billing.hrznhosting.com and
 https://panel.hrznhosting.com ). (the “Service”). By accessing or using the Service,
@@ -115,6 +113,5 @@ privacy policies or practices of any third party sites or services.
 ## Grievance / Data Protection Officer
 
 If you have any queries or concerns about the processing of your information that is
-available with us, you may email our Grievance Officer at Horizon Hosting Limited, Old Airfield
-Farm, Gloucester, email: legal@hrznhosting.com. We will address your concerns in
+available with us, you may email our Grievance Officer at Horizon Hosting Limited, 11 Ann Wicks Road, Frampton On Severn, Gloucester, GL2 7HH, United Kingdom of Great Britain and Northern Ireland, email: legal@hrznhosting.com. We will address your concerns in
 accordance with applicable law.
