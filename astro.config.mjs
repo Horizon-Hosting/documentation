@@ -30,7 +30,7 @@ export default defineConfig({
 					},
 				},
 				{
-					label: 'Garrys Mod',
+					label: 'Garry\'s Mod',
 					autogenerate: {
 						collapsed: true,
 						directory: 'gmod'
