@@ -74,7 +74,7 @@ PayPal’s privacy policy: <https://www.paypal.com/privacy>
 ### Stripe
 
 We use Stripe to process payments and for KYC Identity Verification.
-Stripe’s privacy policy: [https://stripe.com/privacy](https://stripe.com/g/privacy)
+Stripe’s privacy policy: [https://stripe.com/privacy](https://stripe.com/privacy)
 
 ### Discord
 
