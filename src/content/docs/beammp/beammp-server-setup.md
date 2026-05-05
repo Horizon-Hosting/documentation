@@ -7,7 +7,7 @@ description: Setting up your BeamMP Gameserver
 This guide details how to setup your new Horizon Hosting BeamMP Gameserver so that it shows on the serverlist. 
 
 ## Obtaining a server key
-* Start by logging into the **[BeamMP Keymaster](https://beammp.com/k/keys)** with your Discord account.
+* Start by logging into the **[BeamMP Keymaster](https://keymaster.beammp.com/)** with your Discord account.
 * Click the blue 'here' text to create a new key. 
 * Fill out the server name and the IP. Please note, the IP field does *nothing* and can be left as `0.0.0.0`.
 * Your newly generated key will then be shown.
@@ -21,7 +21,7 @@ Configuration options for your server will show in the **"Startup" tab** on the 
 
 |Name | Description | Example |
 |-----|-------------|---------|
-| Authentication Key | Your key from the [BeamMP Keymaster](https://beammp.com/k/keys). This is required to make your BeamMP server show on the serverlist. | `aid693aa-l5c2-5883-b498-z196873fc578` |
+| Authentication Key | Your key from the [BeamMP Keymaster](https://keymaster.beammp.com/). This is required to make your BeamMP server show on the serverlist. | `aid693aa-l5c2-5883-b498-z196873fc578` |
 | Name | The name of your server, which will show on the server list | `Horizon Networks BeamMP Server` |
 | Cars | The number of cars that a user can spawn | `3` |
 | Map | The map that the server will use. | `/levels/gridmap_v2/info.json`
